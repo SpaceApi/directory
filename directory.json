@@ -47,6 +47,6 @@
     "C3D2 HQ": "http://www.hq.c3d2.de/spaceapi.json",
     "UrLab": "http://api.urlab.be/spaceapi/",
     "P-Space": "http://pspace.dyndns.org/space.php",
-    "Maschinenraum": "http://api.maschinenraum.tk/spaceapi.json",
+    "Maschinenraum": "http://api.maschinenraum.tk/status.json",
     "Post Tenebras Lab": "http://www.posttenebraslab.ch/api/status.json"
 }
