@@ -32,7 +32,7 @@
     "Shackspace": "http://openspace.slopjong.de/shackspace.json",
     "Stratum 0": "http://status.stratum0.org/status.json",
     "syn2cat": "http://www.hackerspace.lu/od/",
-    "Technologia Incognita": "https://techinc.nl/space/spacestate.json",
+    "Technologia Incognita": "http://techinc.nl/space/spacestate.json",
     "Tetalab": "http://status.tetalab.org/status.json",
     "TkkrLab": "http://tkkrlab.nl/statejson.php",
     "TOG": "http://tog.ie/cgi-bin/space",
