@@ -35,5 +35,6 @@
     "MetaMeute": "https://status.metameute.de/spaceapi.json",
     "091 Labs": "http://scruffy.091labs.com/lolo/json/status.json",
     "Le Loop": "http://leloop.org/status.json",
-    "Noklab": "http://cccgoe.de/spaceapi.php"
+    "Noklab": "http://cccgoe.de/spaceapi.php",
+    "Stratum 0": "http://status.stratum0.org/status.json",
 }
