@@ -1,4 +1,5 @@
 {
+    "091 Labs": "http://scruffy.091labs.com/lolo/json/status.json",
     "ACKspace": "https://ackspace.nl/status.php",
     "Beta-Space": "http://status.kreativitaet-trifft-technik.de/status.json",
     "Bitlair": "https://bitlair.nl/statejson.php",
@@ -11,6 +12,7 @@
     "HeatSync Labs": "http://intranet.heatsynclabs.org/~access/cgi-bin/spaceapi.rb",
     "Hickerspace": "http://hickerspace.org/api/info/",
     "Kwartzlab MakerSpace": "http://at.kwartzlab.ca/spaceapi/index.php",
+    "MetaMeute": "https://status.metameute.de/spaceapi.json",
     "Make, Hack, Void Canberra": "http://space.makehackvoid.com/status",
     "Makers Local 256": "https://256.makerslocal.org/status.json",
     "MidsouthMakers": "http://midsouthmakers.org/spaceapi/",
@@ -32,8 +34,6 @@
     "Technologia Incognita": "https://techinc.nl/space/spacestate.json",
     "Hackburg": "http://www.hackburg.ch/status.json",
     "Randomdata": "http://randomdata.nl/hsapi.php",
-    "MetaMeute": "https://status.metameute.de/spaceapi.json",
-    "091 Labs": "http://scruffy.091labs.com/lolo/json/status.json",
     "Le Loop": "http://leloop.org/status.json",
     "Noklab": "http://cccgoe.de/spaceapi.php",
     "Stratum 0": "http://status.stratum0.org/status.json"
