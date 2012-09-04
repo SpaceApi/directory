@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# This script uses yajl - http://lloyd.github.com/yajl/   
+
+spaceapi=$(curl -s http://openspace.slopjong.de/directory.json); echo $spaceapi | json_verify | grep -o invalid || (echo $spaceapi | json_reformat > directory.json && git commit -a -m "Directory update" && git push && git push spaceapi master)
