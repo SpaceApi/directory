@@ -28,7 +28,7 @@
     "Pumping Station: One": "http://spacemon.pumpingstationone.org:8000/spaceapi/ps1",
     "Randomdata": "http://randomdata.nl/hsapi.php",
     "RaumZeitLabor": "http://openspace.slopjong.de/raumzeitlabor.json",
-    "RevSpace": "https://revspace.nl/status/status.php",
+    "RevSpace": "http://revspace.nl/status/status.php",
     "Shackspace": "http://openspace.slopjong.de/shackspace.json",
     "Stratum 0": "http://status.stratum0.org/status.json",
     "syn2cat": "http://www.hackerspace.lu/od/",
