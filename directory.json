@@ -39,5 +39,6 @@
     "Void Warranties": "http://we.voidwarranties.be/SpaceAPI/",
     "sublab": "http://sublab.org/sublab_status.json",
     "Nottinghack": "http://lspace.nottinghack.org.uk/status/status.php",
-    "FamiLAB": "http://familab.org/status/status.php"
+    "FamiLAB": "http://familab.org/status/status.php",
+    "Chaostreff-Dortmund": "http://www.chaostreff-dortmund.de/spaceapi.php"
 }
