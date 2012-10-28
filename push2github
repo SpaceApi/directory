@@ -3,9 +3,36 @@
 # This script uses yajl - http://lloyd.github.com/yajl/   
 # The cron setup: */15 * * * * cd /home/slopjong/OpenSpaceDirectory; ./push2github
 
-# What space was added/updated?
-# Assumption: directory changes at most once every 15 minutes otherwise only the first 
-# changed space will appear in the commit message
-_space=$(git diff | egrep -m 1 -o  "\+[[:space:]]+.+\:[[:space:]]" | cut -d'"' -f2)
+#################################
+### helpers #####################
 
-spaceapi=$(curl -s http://openspace.slopjong.de/directory.json); echo $spaceapi | json_verify | grep -o invalid || (echo $spaceapi | json_reformat > directory.json && git commit -a -m "Space added or updated: ${_space}" && git push && git push spaceapi master)
+directory() {
+    echo $(curl -s http://openspace.slopjong.de/directory.json);
+}
+
+commit() {
+    # What space was added/updated?
+    # Assumption: directory changes at most once every 15 minutes otherwise only the first 
+    # changed space will appear in the commit message
+    space=$(git diff | egrep -m 1 -o  "\+[[:space:]]+.+\:[[:space:]]" | cut -d'"' -f2)
+    
+    git commit -a -m "Space added or updated: ${space}"
+}
+
+push() {
+    git push && git push spaceapi master
+}
+
+is_directory_valid() {
+    echo $(directory) | json_verify | grep -o invalid || echo true
+    echo $(directory) | json_verify | grep -o invalid && echo false
+}
+
+
+#################################
+### main code ###################
+
+if $(is_directory_valid);
+then
+    echo $(directory) | json_reformat > directory.json && commit
+fi
