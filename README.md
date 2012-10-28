@@ -5,7 +5,7 @@ The Space API directory is a list of hackerspaces that have the Space API implem
 
 If your hackerspace is missing in the list, click [here](http://openspace.slopjong.de) and add it yourself as shown below.
 
-<div class="highlight" markdown="1">
+<div class="highlight">
 **Note:** if your URL in the directory has changed, don't fork and edit the direcotory.json directly but open a [new ticket here](https://github.com/slopjong/OpenSpaceDirectory/issues).
 </div>
 
