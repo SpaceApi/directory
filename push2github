@@ -3,4 +3,7 @@
 # This script uses yajl - http://lloyd.github.com/yajl/   
 # The cron setup: */15 * * * * cd /home/slopjong/OpenSpaceDirectory; ./push2github
 
-spaceapi=$(curl -s http://openspace.slopjong.de/directory.json); echo $spaceapi | json_verify | grep -o invalid || (echo $spaceapi | json_reformat > directory.json && git commit -a -m "Directory update" && git push && git push spaceapi master)
+# what space was added/updated?
+_space=$(git diff | egrep -m 1 -o  "\+[[:space:]]+.+\:[[:space:]]" | cut -d'"' -f2)
+
+spaceapi=$(curl -s http://openspace.slopjong.de/directory.json); echo $spaceapi | json_verify | grep -o invalid || (echo $spaceapi | json_reformat > directory.json && git commit -a -m "Directory update ${_space}" && git push && git push spaceapi master)
