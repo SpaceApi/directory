@@ -12,7 +12,7 @@ space_added_updated() {
     # Assumption: directory changes at most once every 15 minutes otherwise only the first 
     # changed space will appear in the commit message
     
-    echo $(git diff directory.json | egrep -m 1 -o  "\+[[:space:]]+.+\:[[:space:]]" | cut -d'"' -f2)  
+    echo $(git diff directory.json | egrep -o "\+[[:space:]]+.+\:[[:space:]]" | tail -n1 | cut -d'"' -f2)  
 }
 
 commit() {
