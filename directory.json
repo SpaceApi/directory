@@ -43,5 +43,6 @@
     "Chaostreff-Dortmund": "http://www.chaostreff-dortmund.de/spaceapi.php",
     "SYNHAK": "http://synhak.org/auth/status.json",
     "Jeanne D'Hack": "http://jeannedhack.org/status.json",
-    "Embassy of Nerdistan": "http://embassy.ccchb.de/status.json"
+    "Embassy of Nerdistan": "http://embassy.ccchb.de/status.json",
+    "C3D2 HQ": "http://www.hq.c3d2.de/spaceapi.json"
 }
