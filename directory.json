@@ -49,5 +49,6 @@
     "P-Space": "http://pspace.dyndns.org/space.php",
     "Maschinenraum": "http://api.maschinenraum.tk/status.json",
     "Post Tenebras Lab": "http://www.posttenebraslab.ch/api/status.json",
-    "Hive13": "http://www.hive13.org/isOpen/api.php"
+    "Hive13": "http://www.hive13.org/isOpen/api.php",
+    "realraum Graz": "http://realraum.at/status.json"
 }
