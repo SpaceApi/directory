@@ -52,5 +52,6 @@
     "Hive13": "http://www.hive13.org/isOpen/api.php",
     "realraum Graz": "http://realraum.at/status.json",
     "backspace": "http://status.bckspc.de/spacestatus.php",
-    "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json"
+    "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
+    "Sudo Room": "http://api.sudoroom.org/status.json"
 }
