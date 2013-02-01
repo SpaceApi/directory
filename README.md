@@ -7,4 +7,4 @@ If your hackerspace is missing in the list, click [here](http://openspace.slopjo
 
 **Note:** if your URL in the directory has changed, don't fork and edit the direcotory.json directly but open a [new ticket here](https://github.com/slopjong/OpenSpaceDirectory/issues).
 
-![add-new-space.png](OpenSpaceDirectory/raw/master/add-new-space.png)
+![add-new-space.png](add-new-space.png)
