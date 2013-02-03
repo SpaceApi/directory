@@ -54,6 +54,6 @@
     "backspace": "http://status.bckspc.de/spacestatus.php",
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
     "Sudo Room": "http://api.sudoroom.org/status.json",
-    "HacDC": "http:///cache/HacDC",
+    "HacDC": "http://openspace.slopjong.de/cache/HacDC",
     "IT-Syndikat": "http://it-syndikat.org/status.php"
 }
