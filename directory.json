@@ -27,9 +27,9 @@
     "NURDSpace": "http://nurdspace.tk/spaceapi/status.json",
     "Pumping Station: One": "http://spacemon.pumpingstationone.org:8000/spaceapi/ps1",
     "Randomdata": "http://randomdata.nl/hsapi.php",
-    "RaumZeitLabor": "http://openspace.slopjong.de/cache/RaumZeitLabor",
+    "RaumZeitLabor": "http:///cache/RaumZeitLabor",
     "RevSpace": "http://revspace.nl/status/status.php",
-    "Shackspace": "http://openspace.slopjong.de/cache/Shackspace",
+    "Shackspace": "http:///cache/Shackspace",
     "Stratum 0": "http://status.stratum0.org/status.json",
     "syn2cat": "http://www.hackerspace.lu/od/",
     "Technologia Incognita": "http://techinc.nl/space/spacestate.json",
@@ -54,6 +54,6 @@
     "backspace": "http://status.bckspc.de/spacestatus.php",
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
     "Sudo Room": "http://api.sudoroom.org/status.json",
-    "HacDC": "http://api.hacdc.org/status.php",
+    "HacDC": "http:///cache/HacDC",
     "IT-Syndikat": "http://it-syndikat.org/status.php"
 }
