@@ -55,5 +55,6 @@
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
     "Sudo Room": "http://api.sudoroom.org/status.json",
     "HacDC": "http://api.hacdc.org/status.php",
-    "IT-Syndikat": "http://it-syndikat.org/status.php"
+    "IT-Syndikat": "http://it-syndikat.org/status.php",
+    "Trollhöhle/Chaos Darmstadt": "http://api.chaos-darmstadt.de/json"
 }
