@@ -56,5 +56,6 @@
     "Sudo Room": "http://api.sudoroom.org/status.json",
     "HacDC": "http://api.hacdc.org/status.php",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
-    "Trollhöhle/Chaos Darmstadt": "http://api.chaos-darmstadt.de/json"
+    "Trollhöhle/Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
+    "Chaos inKL": "http://openspace.slopjong.de/chaosinkl.json"
 }
