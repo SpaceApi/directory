@@ -24,7 +24,7 @@
     "NURDSpace": "http://nurdspace.tk/spaceapi/status.json",
     "Pumping Station: One": "http://spacemon.pumpingstationone.org:8000/spaceapi/ps1",
     "Randomdata": "http://randomdata.nl/hsapi.php",
-    "RaumZeitLabor": "http://betaspace.slopjong.de/cache/RaumZeitLabor",
+    "RaumZeitLabor": "http://openspace.slopjong.de/cache/RaumZeitLabor",
     "RevSpace": "http://revspace.nl/status/status.php",
     "Shackspace": "http://betaspace.slopjong.de/cache/Shackspace",
     "Stratum 0": "http://status.stratum0.org/status.json",
@@ -53,6 +53,6 @@
     "HacDC": "http://api.hacdc.org/status.php",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
-    "Chaos inKL.": "http://betaspace.slopjong.de/cache/Chaos+inKL.",
+    "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
     "Sudo Room": "http://api.sudoroom.org/status.json"
 }
