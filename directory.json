@@ -53,6 +53,6 @@
     "HacDC": "http://api.hacdc.org/status.php",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
-    "Sudo Room": "http://api.sudoroom.org/status.json",
+    "Sudo Room": "http://openspace.slopjong.de/cache/Sudo+Room",
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL."
 }
