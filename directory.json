@@ -54,5 +54,6 @@
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Sudo Room": "http://api.sudoroom.org/status.json",
-    "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL."
+    "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
+    "CCCFr": "http://cccfr.de/status/spaceapi.py"
 }
