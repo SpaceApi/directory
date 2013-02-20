@@ -55,5 +55,6 @@
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Sudo Room": "http://api.sudoroom.org/status.json",
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
-    "CCCFr": "http://cccfr.de/status/spaceapi.py"
+    "CCCFr": "http://cccfr.de/status/spaceapi.py",
+    "Hackerspace Monterrey": "http://hsmty.org/status.json"
 }
