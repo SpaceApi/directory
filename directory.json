@@ -24,9 +24,7 @@
     "NURDSpace": "http://nurdspace.tk/spaceapi/status.json",
     "Pumping Station: One": "http://spacemon.pumpingstationone.org:8000/spaceapi/ps1",
     "Randomdata": "http://randomdata.nl/hsapi.php",
-    "RaumZeitLabor": "http://openspace.slopjong.de/cache/RaumZeitLabor",
     "RevSpace": "http://revspace.nl/status/status.php",
-    "Shackspace": "http://openspace.slopjong.de/cache/Shackspace",
     "Stratum 0": "http://status.stratum0.org/status.json",
     "syn2cat": "http://www.hackerspace.lu/od/",
     "Technologia Incognita": "http://techinc.nl/space/spacestate.json",
@@ -41,7 +39,6 @@
     "SYNHAK": "https://synhak.org/auth/status.json",
     "Jeanne D'Hack": "http://jeannedhack.org/status.json",
     "Embassy of Nerdistan": "http://embassy.ccchb.de/status.json",
-    "C3D2 HQ": "http://openspace.slopjong.de/cache/C3D2+HQ",
     "UrLab": "http://api.urlab.be/spaceapi/",
     "P-Space": "http://pspace.dyndns.org/space.php",
     "Maschinenraum": "http://api.maschinenraum.tk/status.json",
@@ -50,11 +47,8 @@
     "realraum": "http://realraum.at/status.json",
     "backspace": "http://status.bckspc.de/spacestatus.php",
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
+    "Sudo Room": "http://api.sudoroom.org/status.json",
     "HacDC": "http://api.hacdc.org/status.php",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
-    "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
-    "Sudo Room": "http://api.sudoroom.org/status.json",
-    "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
-    "CCCFr": "http://cccfr.de/status/spaceapi.py",
-    "Hackerspace Monterrey": "http://hsmty.org/status.json"
+    "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json"
 }
