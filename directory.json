@@ -49,12 +49,12 @@
     "realraum": "http://realraum.at/status.json",
     "backspace": "http://status.bckspc.de/spacestatus.php",
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
-    "Sudo Room": "http://api.sudoroom.org/status.json",
+    "Sudo Room": "http://openspace.slopjong.de/cache/Sudo+Room",
     "HacDC": "http://api.hacdc.org/status.php",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
-    "CCCFr": "http://cccfr.de/status/spaceapi.py",
+    "CCCFr": "http://openspace.slopjong.de/cache/CCCFr",
     "Hackerspace Monterrey": "http://hsmty.org/status.json",
     "091 Labs": "http://galileo.fedorapeople.org/status.json"
 }
