@@ -47,14 +47,14 @@
     "Post Tenebras Lab": "http://www.posttenebraslab.ch/api/status.json",
     "Hive13": "http://www.hive13.org/isOpen/api.php",
     "realraum": "http://realraum.at/status.json",
-    "backspace": "http://status.bckspc.de/spacestatus.php",
+    "backspace": "http://openspace.slopjong.de/cache/backspace",
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
-    "Sudo Room": "http://openspace.slopjong.de/cache/Sudo+Room",
+    "Sudo Room": "http://api.sudoroom.org/status.json",
     "HacDC": "http://api.hacdc.org/status.php",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
-    "CCCFr": "http://openspace.slopjong.de/cache/CCCFr",
+    "CCCFr": "http://cccfr.de/status/spaceapi.py",
     "Hackerspace Monterrey": "http://hsmty.org/status.json",
     "091 Labs": "http://galileo.fedorapeople.org/status.json"
 }
