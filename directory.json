@@ -47,7 +47,7 @@
     "Post Tenebras Lab": "http://www.posttenebraslab.ch/api/status.json",
     "Hive13": "http://www.hive13.org/isOpen/api.php",
     "realraum": "http://realraum.at/status.json",
-    "backspace": "http://openspace.slopjong.de/cache/backspace",
+    "backspace": "http://status.bckspc.de/spacestatus.php",
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
     "Sudo Room": "http://api.sudoroom.org/status.json",
     "HacDC": "http://api.hacdc.org/status.php",
