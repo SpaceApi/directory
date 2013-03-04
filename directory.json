@@ -30,7 +30,7 @@
     "Stratum 0": "http://status.stratum0.org/status.json",
     "syn2cat": "http://www.hackerspace.lu/od/",
     "Technologia Incognita": "http://techinc.nl/space/spacestate.json",
-    "Tetalab": "http://status.tetalab.org/status.json",
+    "Tetalab": "http://openspace.slopjong.de/cache/Tetalab",
     "TkkrLab": "http://tkkrlab.nl/statejson.php",
     "TOG": "http://tog.ie/cgi-bin/space",
     "Void Warranties": "http://we.voidwarranties.be/SpaceAPI/",
