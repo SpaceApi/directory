@@ -56,5 +56,6 @@
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
     "CCCFr": "http://cccfr.de/status/spaceapi.py",
     "Hackerspace Monterrey": "http://hsmty.org/status.json",
-    "091 Labs": "http://galileo.fedorapeople.org/status.json"
+    "091 Labs": "http://galileo.fedorapeople.org/status.json",
+    "Apollo-NG": "https://apollo.open-resource.org/status.php"
 }
