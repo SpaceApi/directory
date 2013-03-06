@@ -57,5 +57,6 @@
     "CCCFr": "http://cccfr.de/status/spaceapi.py",
     "Hackerspace Monterrey": "http://hsmty.org/status.json",
     "091 Labs": "http://galileo.fedorapeople.org/status.json",
-    "Apollo-NG": "https://apollo.open-resource.org/status.php"
+    "Apollo-NG": "https://apollo.open-resource.org/status.php",
+    "H.A.C.K.": "http://openspace.slopjong.de/cache/H.A.C.K."
 }
