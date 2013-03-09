@@ -8,7 +8,7 @@
     "Frack": "http://frack.nl/spacestate/?api",
     "Garoa Hacker Clube": "https://garoahc.appspot.com/status",
     "Hack42": "http://hack42.nl/spacestate/json.php",
-    "Hackburg": "http://openspace.slopjong.de/cache/Hackburg",
+    "Hackburg": "http://www.hackburg.ch/status.json",
     "Hackspace-Jena": "http://status.hackspace-jena.de/api/",
     "HeatSync Labs": "http://intranet.heatsynclabs.org/~access/cgi-bin/spaceapi.rb",
     "Hickerspace": "http://hickerspace.org/api/info/",
