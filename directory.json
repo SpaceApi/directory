@@ -59,5 +59,6 @@
     "091 Labs": "http://galileo.fedorapeople.org/status.json",
     "Apollo-NG": "https://apollo.open-resource.org/status.php",
     "H.A.C.K.": "http://openspace.slopjong.de/cache/H.A.C.K.",
-    "nbsp": "http://status.nobreakspace.org/status/spaceapi.json"
+    "nbsp": "http://status.nobreakspace.org/status/spaceapi.json",
+    "Mainframe": "http://status.kreativitaet-trifft-technik.de/status.json"
 }
