@@ -1,6 +1,6 @@
 {
     "Ace Monster Toys": "http://acemonstertoys.org/status.json",
-    "ACKspace": "https://ackspace.nl/status.php",
+    "ACKspace": "http://openspace.slopjong.de/cache/ACKspace",
     "Beta-Space": "http://status.kreativitaet-trifft-technik.de/status.json",
     "Bitlair": "https://bitlair.nl/statejson.php",
     "Farset Labs": "http://unit1.farsetlabs.org.uk/spaceapi/space/",
@@ -39,7 +39,7 @@
     "FamiLAB": "http://familab.org/status/status.php",
     "Chaostreff-Dortmund": "http://www.chaostreff-dortmund.de/spaceapi.php",
     "SYNHAK": "https://synhak.org/auth/status.json",
-    "Jeanne D'Hack": "http://openspace.slopjong.de/cache/Jeanne+D%27Hack",
+    "Jeanne D'Hack": "http://jeannedhack.org/status.json",
     "Embassy of Nerdistan": "http://embassy.ccchb.de/status.json",
     "UrLab": "http://api.urlab.be/spaceapi/",
     "P-Space": "http://pspace.dyndns.org/space.php",
