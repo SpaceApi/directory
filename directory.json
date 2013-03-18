@@ -1,6 +1,6 @@
 {
     "Ace Monster Toys": "http://acemonstertoys.org/status.json",
-    "ACKspace": "http://openspace.slopjong.de/cache/ACKspace",
+    "ACKspace": "https://ackspace.nl/status.php",
     "Beta-Space": "http://status.kreativitaet-trifft-technik.de/status.json",
     "Bitlair": "https://bitlair.nl/statejson.php",
     "Farset Labs": "http://unit1.farsetlabs.org.uk/spaceapi/space/",
@@ -54,7 +54,7 @@
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
-    "CCCFr": "http://cccfr.de/status/spaceapi.py",
+    "CCCFr": "http://openspace.slopjong.de/cache/CCCFr",
     "Hackerspace Monterrey": "http://hsmty.org/status.json",
     "091 Labs": "http://galileo.fedorapeople.org/status.json",
     "Apollo-NG": "https://apollo.open-resource.org/status.php",
