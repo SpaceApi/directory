@@ -13,7 +13,7 @@
     "HeatSync Labs": "http://intranet.heatsynclabs.org/~access/cgi-bin/spaceapi.rb",
     "Hickerspace": "http://hickerspace.org/api/info/",
     "Le Loop": "http://openspace.slopjong.de/cache/Le+Loop",
-    "MetaMeute": "http://openspace.slopjong.de/cache/MetaMeute",
+    "MetaMeute": "https://status.metameute.de/spaceapi.json",
     "Make, Hack, Void Canberra": "http://space.makehackvoid.com/status",
     "Makers Local 256": "https://256.makerslocal.org/status.json",
     "MidsouthMakers": "http://midsouthmakers.org/spaceapi/",
@@ -50,7 +50,7 @@
     "backspace": "http://status.bckspc.de/spacestatus.php",
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
     "Sudo Room": "http://api.sudoroom.org/status.json",
-    "HacDC": "http://api.hacdc.org/status.php",
+    "HacDC": "http://openspace.slopjong.de/cache/HacDC",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
@@ -59,6 +59,6 @@
     "091 Labs": "http://galileo.fedorapeople.org/status.json",
     "Apollo-NG": "https://apollo.open-resource.org/status.php",
     "H.A.C.K.": "http://openspace.slopjong.de/cache/H.A.C.K.",
-    "nbsp": "http://openspace.slopjong.de/cache/nbsp",
+    "nbsp": "http://status.nobreakspace.org/status/spaceapi.json",
     "Mainframe": "http://status.kreativitaet-trifft-technik.de/status.json"
 }
