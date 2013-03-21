@@ -50,7 +50,7 @@
     "backspace": "http://status.bckspc.de/spacestatus.php",
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
     "Sudo Room": "http://api.sudoroom.org/status.json",
-    "HacDC": "http://openspace.slopjong.de/cache/HacDC",
+    "HacDC": "http://api.hacdc.org/status.php",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
