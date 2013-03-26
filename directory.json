@@ -2,7 +2,7 @@
     "Ace Monster Toys": "http://acemonstertoys.org/status.json",
     "ACKspace": "https://ackspace.nl/status.php",
     "Beta-Space": "http://status.kreativitaet-trifft-technik.de/status.json",
-    "Bitlair": "https://bitlair.nl/statejson.php",
+    "Bitlair": "http://openspace.slopjong.de/cache/Bitlair",
     "Farset Labs": "http://unit1.farsetlabs.org.uk/spaceapi/space/",
     "FIXME": "https://fixme.ch/cgi-bin/spaceapi.py",
     "Frack": "http://frack.nl/spacestate/?api",
@@ -48,7 +48,7 @@
     "Hive13": "http://www.hive13.org/isOpen/api.php",
     "realraum": "http://realraum.at/status.json",
     "backspace": "http://status.bckspc.de/spacestatus.php",
-    "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
+    "brmlab": "http://openspace.slopjong.de/cache/brmlab",
     "Sudo Room": "http://api.sudoroom.org/status.json",
     "HacDC": "http://api.hacdc.org/status.php",
     "IT-Syndikat": "http://it-syndikat.org/status.php",
@@ -59,6 +59,6 @@
     "091 Labs": "http://galileo.fedorapeople.org/status.json",
     "Apollo-NG": "https://apollo.open-resource.org/status.php",
     "H.A.C.K.": "http://openspace.slopjong.de/cache/H.A.C.K.",
-    "nbsp": "http://status.nobreakspace.org/status/spaceapi.json",
+    "nbsp": "http://openspace.slopjong.de/cache/nbsp",
     "Mainframe": "http://status.kreativitaet-trifft-technik.de/status.json"
 }
