@@ -22,7 +22,7 @@
     "Noisebridge": "http://api.noisebridge.net/spaceapi/",
     "Noklab": "https://cccgoe.de/spaceapi.php",
     "NURDSpace": "http://nurdspace.tk/spaceapi/status.json",
-    "Pumping Station: One": "http://spacemon.pumpingstationone.org:8000/spaceapi/ps1",
+    "Pumping Station: One": "http://openspace.slopjong.de/cache/Pumping+Station%3A+One",
     "Randomdata": "http://randomdata.nl/hsapi.php",
     "RaumZeitLabor": "http://openspace.slopjong.de/cache/RaumZeitLabor",
     "RevSpace": "http://revspace.nl/status/status.php",
@@ -61,5 +61,5 @@
     "H.A.C.K.": "http://openspace.slopjong.de/cache/H.A.C.K.",
     "nbsp": "http://status.nobreakspace.org/status/spaceapi.json",
     "Mainframe": "http://status.kreativitaet-trifft-technik.de/status.json",
-    "Netz39": "http://n39.eu/spaceapi"
+    "Netz39": "http://openspace.slopjong.de/cache/Netz39"
 }
