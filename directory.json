@@ -38,7 +38,7 @@
     "Nottinghack": "http://lspace.nottinghack.org.uk/status/status.php",
     "FamiLAB": "http://familab.org/status/status.php",
     "Chaostreff-Dortmund": "http://www.chaostreff-dortmund.de/spaceapi.php",
-    "SYNHAK": "http://openspace.slopjong.de/cache/SYNHAK",
+    "SYNHAK": "https://synhak.org/auth/status.json",
     "Jeanne D'Hack": "http://jeannedhack.org/status.json",
     "Embassy of Nerdistan": "http://embassy.ccchb.de/status.json",
     "UrLab": "http://api.urlab.be/spaceapi/",
