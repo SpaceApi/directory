@@ -63,5 +63,6 @@
     "Mainframe": "http://status.kreativitaet-trifft-technik.de/status.json",
     "Netz39": "http://spaceapi.n39.eu/json",
     "Reaktor 23": "http://reaktor23.org/state/json.php",
-    "base48": "http://48.io/status/"
+    "base48": "http://48.io/status/",
+    "Lamba Labs": "http://status.lambalabs.org/public.php"
 }
