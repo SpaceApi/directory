@@ -54,7 +54,7 @@
     "IT-Syndikat": "http://it-syndikat.org/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Chaos inKL.": "http://openspace.slopjong.de/cache/Chaos+inKL.",
-    "CCCFr": "http://openspace.slopjong.de/cache/CCCFr",
+    "CCCFr": "http://cccfr.de/status/spaceapi.py",
     "Hackerspace Monterrey": "http://openspace.slopjong.de/cache/Hackerspace+Monterrey",
     "091 Labs": "http://galileo.fedorapeople.org/status.json",
     "Apollo-NG": "https://apollo.open-resource.org/status.php",
