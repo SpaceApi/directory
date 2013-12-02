@@ -10,7 +10,7 @@
     "Hack42": "http://hack42.nl/spacestate/json.php",
     "Hackburg": "http://www.hackburg.ch/status.json",
     "Hackspace-Jena": "http://status.hackspace-jena.de/api/",
-    "HeatSync Labs": "http://intranet.heatsynclabs.org/~access/cgi-bin/spaceapi.rb",
+    "HeatSync Labs": "http://members.heatsynclabs.org/space_api.json",
     "Hickerspace": "http://hickerspace.org/api/info/",
     "Le Loop": "http://spaceapi.net/cache/Le+Loop",
     "MetaMeute": "https://status.metameute.de/spaceapi.json",
