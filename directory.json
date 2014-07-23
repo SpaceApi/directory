@@ -22,7 +22,7 @@
     "Noisebridge": "http://api.noisebridge.net/spaceapi/",
     "Noklab": "https://cccgoe.de/spaceapi.php",
     "NURDSpace": "http://spaceapi.net/cache/NURDSpace",
-    "Pumping Station: One": "http://spacemon.pumpingstationone.org:8000/spaceapi/ps1",
+    "Pumping Station: One": "http://spacemon.pumpingstationone.org/spaceapi/ps1",
     "Randomdata": "http://randomdata.nl/hsapi.php",
     "RevSpace": "http://revspace.nl/status/status.php",
     "Stratum 0": "http://status.stratum0.org/status.json",
