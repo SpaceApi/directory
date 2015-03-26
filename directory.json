@@ -70,5 +70,6 @@
     "TkkrLab": "http://tkkrlab.nl/statejson.php",
     "TOG": "http://tog.ie/cgi-bin/space",
     "UrLab": "http://api.urlab.be/spaceapi/",
-    "Void Warranties": "http://we.voidwarranties.be/SpaceAPI/"
+    "Void Warranties": "http://we.voidwarranties.be/SpaceAPI/",
+    "Wolfplex": "http://api.wolfplex.be/space/"
 }
