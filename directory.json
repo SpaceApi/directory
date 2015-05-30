@@ -31,7 +31,7 @@
     "Tetalab": "http://status.tetalab.org/status.json",
     "TkkrLab": "http://tkkrlab.nl/statejson.php",
     "TOG": "http://tog.ie/cgi-bin/space",
-    "Void Warranties": "http://we.voidwarranties.be/SpaceAPI/",
+    "VoidWarranties": "http://spaceapi.voidwarranties.be/",
     "sublab": "http://sublab.org/status.json",
     "Nottinghack": "http://lspace.nottinghack.org.uk/status/status.php",
     "FamiLAB": "http://familab.org/status/status.php",
