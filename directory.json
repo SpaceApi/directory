@@ -3,6 +3,7 @@
     "ACKspace": "https://ackspace.nl/status.php",
     "Beta-Space": "http://status.kreativitaet-trifft-technik.de/status.json",
     "Bitlair": "https://bitlair.nl/statejson.php",
+    "Coredump": "https://status.crdmp.ch/",
     "Farset Labs": "http://spaceapi.net/cache/Farset+Labs",
     "FIXME": "https://fixme.ch/cgi-bin/spaceapi.py",
     "Frack": "http://frack.nl/spacestate/?api",
