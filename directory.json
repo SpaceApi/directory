@@ -49,7 +49,7 @@
     "brmlab": "http://nat.brmlab.cz/brmd/brmstatus.json",
     "Sudo Room": "http://spaceapi.net/cache/Sudo+Room",
     "HacDC": "http://api.hacdc.org/status.php",
-    "IT-Syndikat": "http://it-syndikat.org/status.php",
+    "IT-Syndikat": "http://it-syndikat.org/api/status.php",
     "Chaos Darmstadt": "http://api.chaos-darmstadt.de/json",
     "Chaos inKL.": "http://spaceapi.net/cache/Chaos+inKL.",
     "CCCFr": "http://cccfr.de/status/spaceapi.py",
