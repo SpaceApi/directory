@@ -70,5 +70,6 @@
     "shackspace - stuttgart hackerspace": "http://shackspace.de/spaceapi-query-0.13",
     "Hackspace Siegen, HaSi e.V.": "http://spaceapi.hasi.it/",
     "Netzladen": "http://netzladen.org/api/status.json",
-    "Laboratorio Hacker de Campinas": "http://lhc.net.br/spacenet.json"
+    "Laboratorio Hacker de Campinas": "http://lhc.net.br/spacenet.json",
+    "MakerSpace Nanaimo" : "http://data.makerspacenanaimo.org/data.asmx/GetData"
 }
