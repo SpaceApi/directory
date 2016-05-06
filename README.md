@@ -1,10 +1,9 @@
 OpenSpaceDirectory
 ==================
 
-The Space API directory is a list of hackerspaces that have the Space API implemented. The directory is part of OpenSpaceLint, the Space API validator.
+The Space API directory is a list of hackerspaces that have the Space API implemented.
 
-If your hackerspace is missing in the list, click [here](http://openspace.slopjong.de) and add it yourself as shown below.
+If your hackerspace is missing in the list, fork the repository, add your space and create a pull request in Github.
 
-**Note:** if your URL in the directory has changed, don't fork and edit the direcotory.json directly but open a [new ticket here](https://github.com/slopjong/OpenSpaceDirectory/issues).
+This is a fork version of the official SpaceAPI, aimed to ease the process of adding a space and provide a stable API for the MyHackerspace Android application
 
-![add-new-space.png](add-new-space.png)
