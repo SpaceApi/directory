@@ -14,7 +14,7 @@ for key in spaces:
     url = spaces[key]
     try:
         print '%s %s' % (key, url)
-        req = requests.get(url, verify=False, timeout=2)
+        req = requests.get(url, verify=False, timeout=5)
         if req.status_code == 200:
             spaces_new[key] = url
         else:
