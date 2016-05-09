@@ -42,7 +42,7 @@
   "UrLab":"http:\/\/api.urlab.be\/spaceapi\/",
   "P-Space":"http:\/\/pspace.dyndns.org\/space.php",
   "Maschinenraum":"http:\/\/api.maschinenraum.tk\/status.json",
-  "Post Tenebras Lab":"https:\/\/www.posttenebraslab.ch\/api\/status.json",
+  "Post Tenebras Lab":"https:\/\/www.posttenebraslab.ch\/status\/status.json",
   "Hive13":"http:\/\/www.hive13.org\/isOpen\/api.php",
   "realraum":"http:\/\/realraum.at\/status.json",
   "backspace":"http:\/\/status.bckspc.de\/spacestatus.php",
