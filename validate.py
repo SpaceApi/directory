@@ -2,6 +2,7 @@
 
 import requests
 import json
+import collections
 
 # Get spaces list
 directory_file = './directory.json'
@@ -14,7 +15,7 @@ for key in spaces:
     url = spaces[key]
     try:
         print '%s %s' % (key, url)
-        req = requests.get(url, verify=False, timeout=5)
+        req = requests.get(url, verify=False, timeout=10)
         if req.status_code == 200:
             spaces_new[key] = url
         else:
@@ -27,8 +28,7 @@ directory.close()
 
 # Save new spaces
 directory = open(directory_file, 'w+')
-sorted(spaces_new.keys())
-json_str = json.dumps(spaces_new, indent=2)
+json_str = json.dumps(spaces_new, indent=2, sort_keys=True)
 json_str = json_str.replace('/', '\\/')
 json_str = json_str.replace(', ', ',')
 json_str = json_str.replace(': ', ':')
