@@ -133,8 +133,6 @@
   "brmlab":"http:\/\/nat.brmlab.cz\/brmd\/brmstatus.json",
   "bytewerk":"http:\/\/stats.bytewerk.org\/status.json",
   "c-base":"http:\/\/www.c-base.org\/status.json",
-  "chaostreff Chemnitz":"https:\/\/chaoschemnitz.de\/chch.json",
-  "coredump":"http:\/\/status.coredump.ch",
   "fnordeingang":"https:\/\/status.fnordeingang.de\/spaceapi.json",
   "hacklab01":"http:\/\/lab.shit.la\/spaceapi\/spaceapi.json",
   "hacklabbo":"http:\/\/isopen.hacklabbo.indivia.net\/hacklabbo\/space.json",
