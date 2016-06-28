@@ -50,7 +50,6 @@
   "HTU Graz - Basisgruppe Telematik":"http:\/\/edv-support.htu.tugraz.at\/doorothy\/bagru\/status.spaceapi",
   "HacDC":"http:\/\/api.hacdc.org\/status.php",
   "Hack42":"http:\/\/hack42.nl\/spacestate\/json.php",
-  "Hackeriet":"http:\/\/spaceapi.hackeriet.no\/hackeriet.spaceapi.json",
   "Hackerspace Bielefeld e.V.":"http:\/\/hackerspace-bielefeld.de\/spacestatus\/status.json",
   "Hackerspace Bremen e.V.":"http:\/\/hackerspacehb.appspot.com\/status",
   "Hackerspace KRK":"http:\/\/hskrk-spacemon.herokuapp.com",
@@ -68,7 +67,6 @@
   "Laboratorio Hacker de Campinas":"http:\/\/lhc.net.br\/spacenet.json",
   "Laborat\u00f3rio Hacker":"http:\/\/status.laboratoriohacker.org\/status\/json",
   "Le Loop":"http:\/\/spaceapi.leloop.org\/status.json",
-  "Leeds Hackspace":"http:\/\/www.leedshackspace.org.uk\/status.php",
   "LeineLab":"http:\/\/leinelab.net\/api\/spaceapi.json",
   "Level2":"https:\/\/www.hackerspace.lu\/od\/",
   "Liege Hackerspace":"http:\/\/lghs.be\/api\/",
@@ -135,7 +133,6 @@
   "c-base":"http:\/\/www.c-base.org\/status.json",
   "fnordeingang":"https:\/\/status.fnordeingang.de\/spaceapi.json",
   "hacklab01":"http:\/\/lab.shit.la\/spaceapi\/spaceapi.json",
-  "hacklabbo":"http:\/\/isopen.hacklabbo.indivia.net\/hacklabbo\/space.json",
   "hackzogtum":"http:\/\/mmisc.de\/~legion\/spaceApiEndpoint\/index.php",
   "nbsp":"http:\/\/nobreakspace.org\/status\/spaceapi.json",
   "nordlab e. V.":"http:\/\/spaceapi.nordlab-ev.de",
@@ -143,6 +140,6 @@
   "shackspace - stuttgart hackerspace":"http:\/\/shackspace.de\/spaceapi-query-0.13",
   "spaceleft":"http:\/\/www.space-left.org\/spaceapi13.json",
   "sublab":"http:\/\/sublab.org\/status.json",
-  "syn2cat":"http:\/\/www.hackerspace.lu\/od\/",
+  "syn2cat":"https:\/\/level2.lu\/spaceapi\/",
   "turmlabor":"http:\/\/www.turmlabor.de\/spaces.api"
 }
