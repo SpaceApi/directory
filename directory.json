@@ -141,5 +141,6 @@
   "spaceleft":"http:\/\/www.space-left.org\/spaceapi13.json",
   "sublab":"http:\/\/sublab.org\/status.json",
   "syn2cat":"https:\/\/level2.lu\/spaceapi\/",
-  "turmlabor":"http:\/\/www.turmlabor.de\/spaces.api"
+  "turmlabor":"http:\/\/www.turmlabor.de\/spaces.api",
+  "vspace.one":"https:\/\/vspace.one\/spaceapi.json"
 }
