@@ -52,6 +52,7 @@
   "Hack42":"http:\/\/hack42.nl\/spacestate\/json.php",
   "Hackerspace Bielefeld e.V.":"http:\/\/hackerspace-bielefeld.de\/spacestatus\/status.json",
   "Hackerspace Bremen e.V.":"http:\/\/hackerspacehb.appspot.com\/status",
+  "HackSpace CaTania":"http://wiki.hackspacecatania.it/space_api_status.json",
   "Hackerspace KRK":"http:\/\/hskrk-spacemon.herokuapp.com",
   "Hackerspace.gr":"http:\/\/www.hackerspace.gr\/spaceapi",
   "Hacksaar":"http:\/\/spaceapi.hacksaar.de\/status.json",
