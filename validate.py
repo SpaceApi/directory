@@ -13,6 +13,8 @@ spaces_new = {}
 # Check spaces
 for key in spaces:
     url = spaces[key]
+    if 'spaceapi.net' in url:
+        continue
     try:
         print '%s %s' % (key, url)
         req = requests.get(url, verify=False, timeout=10)
