@@ -9,6 +9,7 @@ directory_file = './directory.json'
 directory = open(directory_file, 'r')
 spaces = json.loads(directory.read())
 spaces_new = {}
+has_error = False
 
 # Check spaces
 for key in spaces:
@@ -25,6 +26,7 @@ for key in spaces:
                 % (req.status_code, req.reason)
     except Exception,e:
         print '\t\033[0;31m\\_Error: %s\033[0m' % (e)
+        has_error = True
 
 directory.close()
 
@@ -34,4 +36,4 @@ json_str = json.dumps(spaces_new, indent=2, sort_keys=True, separators=(',', ':'
 json_str = json_str.replace('/', '\\/')
 directory.write(json_str)
 directory.close()
-
+exit(int(has_error))
