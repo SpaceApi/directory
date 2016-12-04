@@ -158,5 +158,6 @@
   "syn2cat":"https:\/\/level2.lu\/spaceapi\/",
   "turmlabor":"http:\/\/www.turmlabor.de\/spaces.api",
   "vspace.one":"https:\/\/vspace.one\/spaceapi.json",
-  "weinhof9":"http:\/\/weinhof9.de\/?feed=spaceapi"
+  "weinhof9":"http:\/\/weinhof9.de\/?feed=spaceapi",
+  "xHain":"https:\/\/x-hain.de\/spaceapi-0.13.json"
 }
