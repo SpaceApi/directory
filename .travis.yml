@@ -1,5 +1,5 @@
 language: python
 python:
     - "2.7"
-install: "pip install requests"
-script: "python remove_unresponsive.py"
+install: "apt-get install python-demjson"
+script: "jsonlint-py ./directory.json"
