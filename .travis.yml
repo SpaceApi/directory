@@ -1,5 +1,5 @@
-language: python
-python:
-    - "2.7"
+os: linux
+dist: trusty
+sudo: required
 install: "sudo apt-get install python-demjson"
-script: "jsonlint-py ./directory.json"
+script: "/usr/bin/jsonlint-py ./directory.json"
