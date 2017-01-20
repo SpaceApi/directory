@@ -69,7 +69,7 @@
   "IT-Syndikat":"http:\/\/it-syndikat.org\/api\/status.php",
   "Heidelberg Makerspace":"https:\/\/heidelberg-makerspace.de\/status.json",
   "K4CG":"http:\/\/spaceapi.k4cg.org\/spaceapi.json",
-  "Krautspace":"http:\/\/status.krautspace.de\/api",
+  "Krautspace":"https:\/\/status.kraut.space\/api",
   "LAG":"http:\/\/state.laglab.org\/spaceapi.json",
   "Laboratoire Ouvert Grenoblois":"https:\/\/www.logre.eu\/spaceapi.json",
   "Laboratorio Hacker de Campinas":"http:\/\/lhc.net.br\/spacenet.json",
