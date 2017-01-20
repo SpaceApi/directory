@@ -2,4 +2,4 @@ language: python
 python:
     - "2.7"
 install: "pip install requests"
-script: "python validate.py"
+script: "python remove_unresponsive.py"
