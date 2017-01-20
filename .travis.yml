@@ -3,4 +3,4 @@ dist: trusty
 sudo: required
 language: python
 install: "pip install demjson"
-script: "jsonlint ./directory.json"
+script: "jsonlint --strict ./directory.json"
