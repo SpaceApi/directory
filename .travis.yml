@@ -1,5 +1,6 @@
 os: linux
 dist: trusty
 sudo: required
-install: "sudo apt-get install python-demjson"
-script: "/usr/bin/jsonlint-py ./directory.json"
+language: python
+install: "pip install demjson"
+script: "jsonlint ./directory.json"
