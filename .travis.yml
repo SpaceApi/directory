@@ -1,5 +1,5 @@
 language: python
 python:
     - "2.7"
-install: "apt-get install python-demjson"
+install: "sudo apt-get install python-demjson"
 script: "jsonlint-py ./directory.json"
