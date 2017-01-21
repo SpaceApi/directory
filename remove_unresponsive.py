@@ -26,6 +26,7 @@ def check_space(url):
     Check a space URL. Return `true` if it's OK, or `false` if it should be
     removed from the directory.
     """
+    # Fetch response
     try:
         response = requests.get(url, verify=False, timeout=TIMEOUT_SECONDS)
     except requests.exceptions.ConnectTimeout:
@@ -42,11 +43,20 @@ def check_space(url):
         global has_error
         has_error = True
         return False
-    if response.status_code == 200:
-        return True
-    else:
+
+    # Verify status code
+    if response.status_code != 200:
         print('  \033[0;31m-> Status: %s: %s\033[0m' % (response.status_code, response.reason))
         return False
+
+    # Verify JSON format
+    try:
+        response.json()
+    except json.decoder.JSONDecodeError:
+        print('  \033[0;31m-> Invalid JSON\033[0m')
+        return False
+
+    return True
 
 
 # Check spaces
