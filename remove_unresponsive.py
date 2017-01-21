@@ -3,7 +3,6 @@ from __future__ import print_function, division, absolute_import, unicode_litera
 
 import requests
 import json
-import collections
 
 # Get spaces list
 directory_file = './directory.json'
