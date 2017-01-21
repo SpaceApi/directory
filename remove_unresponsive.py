@@ -43,8 +43,6 @@ def check_space(url):
 with open(directory_file, 'r') as directory:
     spaces = json.loads(directory.read())
     for name, url in spaces.items():
-        if 'spaceapi.net' in url:
-            continue
         print('+ {} {}'.format(name, url).encode('utf8'))
         space_valid = check_space(url)
         if space_valid is True:
