@@ -14,8 +14,6 @@ import json
 
 # Get spaces list
 directory_file = './directory.json'
-directory = open(directory_file, 'r')
-spaces = json.loads(directory.read())
 spaces_new = {}
 has_error = False
 
@@ -42,20 +40,21 @@ def check_space(url):
 
 
 # Check spaces
-for name, url in spaces.items():
-    if 'spaceapi.net' in url:
-        continue
-    print('+ {} {}'.format(name, url).encode('utf8'))
-    space_valid = check_space(url)
-    if space_valid is True:
-        spaces_new[name] = url
+with open(directory_file, 'r') as directory:
+    spaces = json.loads(directory.read())
+    for name, url in spaces.items():
+        if 'spaceapi.net' in url:
+            continue
+        print('+ {} {}'.format(name, url).encode('utf8'))
+        space_valid = check_space(url)
+        if space_valid is True:
+            spaces_new[name] = url
 
-
-directory.close()
 
 # Save new spaces
-directory = open(directory_file, 'w+')
-json_str = json.dumps(spaces_new, indent=2, sort_keys=True, separators=(',', ':'))
-directory.write(json_str)
-directory.close()
-exit(int(has_error))
+with open(directory_file, 'w+') as directory:
+    json_str = json.dumps(spaces_new, indent=2, sort_keys=True, separators=(',', ':'))
+    directory.write(json_str)
+
+
+exit(1 if has_error else 0)
