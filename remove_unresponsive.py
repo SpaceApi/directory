@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+"""
+A simple script to remove unresponsive SpaceAPI endpoints from the directory.
+
+An entry is removed in the following cases:
+
+- Endpoint does not return HTTP 200
+
+"""
 from __future__ import print_function, division, absolute_import, unicode_literals
 
 import requests
@@ -16,15 +24,16 @@ for name, url in spaces.items():
     if 'spaceapi.net' in url:
         continue
     try:
-        print('+ %s %s' % (name, url))
+        print('+ {} {}'.format(name, url).encode('utf8'))
         response = requests.get(url, verify=False, timeout=10)
         if response.status_code == 200:
             spaces_new[name] = url
         else:
-            print('  \033[0;31m-> Status: %s: %s\033[0m' \
-                % (response.status_code, response.reason))
+            print('  \033[0;31m-> Status: %s: %s\033[0m'
+                    .format(response.status_code, response.reason)
+                    .encode('utf8'))
     except Exception as e:
-        print('  \033[0;31m-> Error: %s\033[0m' % e)
+        print('  \033[0;31m-> Error: {}\033[0m'.format(e).encode('utf8'))
         has_error = True
 
 directory.close()
