@@ -12,8 +12,11 @@ from __future__ import print_function, division, absolute_import, unicode_litera
 import requests
 import json
 
-# Get spaces list
-directory_file = './directory.json'
+# Config
+DIRECTORY_FILE = './directory.json'
+TIMEOUT_SECONDS = 10
+
+# Variables
 spaces_new = {}
 has_error = False
 
@@ -24,7 +27,16 @@ def check_space(url):
     removed from the directory.
     """
     try:
-        response = requests.get(url, verify=False, timeout=10)
+        response = requests.get(url, verify=False, timeout=TIMEOUT_SECONDS)
+    except requests.exceptions.ConnectTimeout:
+        print('  \033[0;31m-> Connection timeout (%ds)\033[0m' % TIMEOUT_SECONDS)
+        return False
+    except requests.exceptions.ReadTimeout:
+        print('  \033[0;31m-> Read timeout (%ds)\033[0m' % TIMEOUT_SECONDS)
+        return False
+    except requests.exceptions.ConnectionError:
+        print('  \033[0;31m-> Connection error\033[0m')
+        return False
     except Exception as e:
         print('  \033[0;31m-> Error: %s\033[0m' % e)
         global has_error
@@ -38,7 +50,7 @@ def check_space(url):
 
 
 # Check spaces
-with open(directory_file, 'r') as directory:
+with open(DIRECTORY_FILE, 'r') as directory:
     spaces = json.loads(directory.read())
     for name, url in spaces.items():
         print('+ %s %s' % (name, url))
@@ -48,7 +60,7 @@ with open(directory_file, 'r') as directory:
 
 
 # Save new spaces
-with open(directory_file, 'w+') as directory:
+with open(DIRECTORY_FILE, 'w+') as directory:
     json_str = json.dumps(spaces_new, indent=2, sort_keys=True, separators=(',', ':'))
     directory.write(json_str)
 
