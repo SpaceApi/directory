@@ -51,9 +51,17 @@ def check_space(url):
 
     # Verify JSON format
     try:
-        response.json()
+        data = response.json()
     except json.decoder.JSONDecodeError:
         print('  \033[0;31m-> Invalid JSON\033[0m')
+        return False
+
+    # Verify that data at least looks like a valid SpaceAPI response
+    if 'api' not in data:
+        print('  \033[0;31m-> Invalid SpaceAPI response: "api" key missing\033[0m')
+        return False
+    if 'space' not in data:
+        print('  \033[0;31m-> Invalid SpaceAPI response: "space" key missing\033[0m')
         return False
 
     return True
