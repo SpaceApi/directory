@@ -16,15 +16,15 @@ for name, url in spaces.items():
     if 'spaceapi.net' in url:
         continue
     try:
-        print '%s %s' % (name, url)
+        print '+ %s %s' % (name, url)
         response = requests.get(url, verify=False, timeout=10)
         if response.status_code == 200:
             spaces_new[name] = url
         else:
-            print '\033[0;31m-> Status: %s: %s\033[0m' \
+            print '  \033[0;31m-> Status: %s: %s\033[0m' \
                 % (response.status_code, response.reason)
     except Exception,e:
-        print '\033[0;31m-> Error: %s\033[0m' % (e)
+        print '  \033[0;31m-> Error: %s\033[0m' % (e)
         has_error = True
 
 directory.close()
