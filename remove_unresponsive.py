@@ -18,53 +18,46 @@ TIMEOUT_SECONDS = 10
 
 # Variables
 spaces_new = {}
+removed = []
 has_error = False
 
 
 def check_space(url):
     """
     Check a space URL. Return `true` if it's OK, or `false` if it should be
-    removed from the directory.
+    removed from the directory. Additionally, the reason will be returned.
     """
     # Fetch response
     try:
         response = requests.get(url, verify=False, timeout=TIMEOUT_SECONDS)
     except requests.exceptions.ConnectTimeout:
-        print('  \033[0;31m-> Connection timeout (%ds)\033[0m' % TIMEOUT_SECONDS)
-        return False
+        return False, 'Connection timeout (%ds)' % TIMEOUT_SECONDS
     except requests.exceptions.ReadTimeout:
-        print('  \033[0;31m-> Read timeout (%ds)\033[0m' % TIMEOUT_SECONDS)
-        return False
+        return False, 'Read timeout (%ds)' % TIMEOUT_SECONDS
     except requests.exceptions.ConnectionError:
-        print('  \033[0;31m-> Connection error\033[0m')
-        return False
+        return False, 'Connection error'
     except Exception as e:
-        print('  \033[0;31m-> Error: %s\033[0m' % e)
         global has_error
         has_error = True
-        return False
+        return False, 'Error: %s' % e
 
     # Verify status code
     if response.status_code != 200:
-        print('  \033[0;31m-> Status: %s: %s\033[0m' % (response.status_code, response.reason))
-        return False
+        return False, 'Status: HTTP %s (%s)' % (response.status_code, response.reason)
 
     # Verify JSON format
     try:
         data = response.json()
     except json.decoder.JSONDecodeError:
-        print('  \033[0;31m-> Invalid JSON\033[0m')
-        return False
+        return False, 'Invalid JSON'
 
     # Verify that data at least looks like a valid SpaceAPI response
     if 'api' not in data:
-        print('  \033[0;31m-> Invalid SpaceAPI response: "api" key missing\033[0m')
-        return False
+        return False, 'Invalid SpaceAPI response: "api" key missing'
     if 'space' not in data:
-        print('  \033[0;31m-> Invalid SpaceAPI response: "space" key missing\033[0m')
-        return False
+        return False, 'Invalid SpaceAPI response: "space" key missing'
 
-    return True
+    return True, None
 
 
 # Check spaces
@@ -72,9 +65,12 @@ with open(DIRECTORY_FILE, 'r') as directory:
     spaces = json.loads(directory.read())
     for name, url in spaces.items():
         print('+ %s %s' % (name, url))
-        space_valid = check_space(url)
+        space_valid, reason = check_space(url)
         if space_valid is True:
             spaces_new[name] = url
+        else:
+            print('  \033[0;31m-> %s\033[0m' % reason)
+            removed.append((name, reason))
 
 
 # Save new spaces
@@ -82,5 +78,10 @@ with open(DIRECTORY_FILE, 'w+') as directory:
     json_str = json.dumps(spaces_new, indent=2, sort_keys=True, separators=(',', ':'))
     directory.write(json_str)
 
+
+# Print summary
+print('\nRemoved %d spaces from the directory.\n' % len(removed))
+for name, reason in removed:
+    print('- %s (%s)' % (name, reason))
 
 exit(1 if has_error else 0)
