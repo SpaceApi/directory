@@ -55,6 +55,7 @@
   "HTU Graz - E-Lab":"http://edv-support.htu.tugraz.at/doorothy/elab/status.spaceapi",
   "HacDC":"http://api.hacdc.org/status.php",
   "Hack42":"http://hack42.nl/spacestate/json.php",
+  "Hackeriet":"http://door.hackeriet.no/spaceapi.json",
   "Hackerspace Bielefeld e.V.":"https://hackerspace-bielefeld.de/spacestatus/status.json",
   "Hackerspace Bremen e.V.":"http://hackerspacehb.appspot.com/status",
   "HackSpace CaTania":"http://wiki.hackspacecatania.it/space_api_status.json",
