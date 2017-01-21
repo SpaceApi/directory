@@ -12,15 +12,14 @@ spaces_new = {}
 has_error = False
 
 # Check spaces
-for key in spaces:
-    url = spaces[key]
+for name, url in spaces.items():
     if 'spaceapi.net' in url:
         continue
     try:
-        print '%s %s' % (key, url)
+        print '%s %s' % (name, url)
         req = requests.get(url, verify=False, timeout=10)
         if req.status_code == 200:
-            spaces_new[key] = url
+            spaces_new[name] = url
         else:
             print '\t\033[0;31m\\_ Status: %s: %s\033[0m' \
                 % (req.status_code, req.reason)
