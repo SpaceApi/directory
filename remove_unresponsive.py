@@ -48,7 +48,7 @@ def check_space(url):
     # Verify JSON format
     try:
         data = response.json()
-    except json.decoder.JSONDecodeError:
+    except ValueError:
         return False, 'Invalid JSON'
 
     # Verify that data at least looks like a valid SpaceAPI response
