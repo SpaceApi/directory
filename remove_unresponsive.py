@@ -33,7 +33,6 @@ directory.close()
 # Save new spaces
 directory = open(directory_file, 'w+')
 json_str = json.dumps(spaces_new, indent=2, sort_keys=True, separators=(',', ':'))
-json_str = json_str.replace('/', '\\/')
 directory.write(json_str)
 directory.close()
 exit(int(has_error))
