@@ -82,6 +82,7 @@
   "Level2":"https://www.hackerspace.lu/od/",
   "Liege Hackerspace":"http://lghs.be/api/",
   "London Hackspace":"https://london.hackspace.org.uk/spaceapi",
+  "Maakplek":"http://maakplek.nl/api/",
   "Mainframe":"http://status.mainframe.io/api/spaceInfo",
   "MakerSpace Nanaimo":"http://data.makerspacenanaimo.org/data.asmx/GetData",
   "Makers Local 256":"https://256.makerslocal.org/status.json",
