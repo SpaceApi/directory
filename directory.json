@@ -72,7 +72,7 @@
   "Heidelberg Makerspace":"https://heidelberg-makerspace.de/status.json",
   "K4CG":"http://spaceapi.k4cg.org/spaceapi.json",
   "Krautspace":"https://status.kraut.space/api",
-  "LAG":"http://state.laglab.org/spaceapi.json",
+  "LAG":"https://state.laglab.org/spaceapi.json",
   "Laboratoire Ouvert Grenoblois":"https://www.logre.eu/spaceapi.json",
   "Laboratorio Hacker de Campinas":"http://lhc.net.br/spacenet.json",
   "Laborat\u00f3rio Hacker":"http://status.laboratoriohacker.org/status/json",
