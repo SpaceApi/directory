@@ -62,6 +62,7 @@
   "HackSpace CaTania":"http://wiki.hackspacecatania.it/space_api_status.json",
   "Hackerspace KRK":"http://hskrk-spacemon.herokuapp.com",
   "Hackerspace.gr":"http://www.hackerspace.gr/spaceapi",
+  "Hacklab": "https://hacklab.kiev.ua/files/spaceapi.json",
   "Hacklabor":"https://hacklabor.de/api/space/v1/",
   "Hacksaar":"http://spaceapi.hacksaar.de/status.json",
   "Hacksburg":"http://wiki.hacksburg.org/status.json",
