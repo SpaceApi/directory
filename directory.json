@@ -50,6 +50,7 @@
   "Garoa Hacker Clube":"https://garoahc.appspot.com/status",
   "GeekLabs":"http://spaceapi.geeklabs.dk/?format=json",
   "H.A.C.K.":"https://vsza.hu/hacksense/spaceapi_status.json",
+  "HSBNE":"http://porthack.hsbne.org/status.json",
   "HSMTY":"http://api.hsmty.org/status.json",
   "HTU Graz - Basisgruppe Informatik":"http://edv-support.htu.tugraz.at/doorothy/bis/status.spaceapi",
   "HTU Graz - Basisgruppe Telematik":"http://edv-support.htu.tugraz.at/doorothy/bagru/status.spaceapi",
