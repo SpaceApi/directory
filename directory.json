@@ -87,6 +87,7 @@
   "London Hackspace":"https://london.hackspace.org.uk/spaceapi",
   "Maakplek":"http://maakplek.nl/api/",
   "Mainframe":"http://status.mainframe.io/api/spaceInfo",
+  "Makerspace Erfurt":"https://status.makerspace-erfurt.de/status.json",
   "MakerSpace Nanaimo":"http://data.makerspacenanaimo.org/data.asmx/GetData",
   "Makers Local 256":"https://256.makerslocal.org/status.json",
   "Maschinendeck":"http://state.maschinendeck.org/spaceapi.json",
