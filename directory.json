@@ -72,6 +72,7 @@
   "Laboratoire Ouvert Grenoblois":"https://www.logre.eu/spaceapi.json",
   "Laboratorio Hacker de Campinas":"http://lhc.net.br/spacenet.json",
   "Le Loop":"http://spaceapi.leloop.org/status.json",
+  "LeineLab":"http://status.leinelab.org/api/spaceapi.json",
   "Level2":"https://www.hackerspace.lu/od/",
   "London Hackspace":"https://london.hackspace.org.uk/spaceapi",
   "Maakplek":"http://maakplek.nl/api/",
