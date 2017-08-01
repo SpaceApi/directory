@@ -37,7 +37,7 @@
   "Edinburgh Hacklab":"http://spaceapi.edinburghhacklab.com/spaceapi.json",
   "Eigenbaukombinat Halle":"http://api.terminal21.de/status_ebk.json",
   "Entropia":"http://club.entropia.de/spaceapi",
-  "FAU FabLab":"https://fablab.fau.de/spaceapi.php",
+  "FAU FabLab":"https://fablab.fau.de/spaceapi/",
   "FIXME":"https://fixme.ch/cgi-bin/spaceapi.py",
   "FabLab Neustadt a. d. Aisch - Bad Windsheim":"https://www.fablab-nea.de/status/json",
   "FabLab N\u00fcrnberg":"http://api.fablab-nuernberg.de/spaceapi.php",
