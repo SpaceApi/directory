@@ -80,6 +80,7 @@
   "Mainframe":"http://status.mainframe.io/api/spaceInfo",
   "Makers Local 256":"https://256.makerslocal.org/status.json",
   "Makerspace Erfurt":"https://status.makerspace-erfurt.de/status.json",
+  "MakeSpace Madrid" : "https://makespacemadrid.org/spaceapi/status.json",
   "Maschinendeck":"http://state.maschinendeck.org/spaceapi.json",
   "Maschinenraum":"http://api.maschinenraum.tk/status.json",
   "Matehackers":"http://mateaberto.herokuapp.com/status.json",
