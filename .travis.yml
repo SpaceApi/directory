@@ -5,4 +5,4 @@ language: python
 install: "pip install demjson requests"
 script:
     - "jsonlint --strict ./directory.json"
-    - "python remove_unresponsive.py"
+    - "python update_spaces.py"
