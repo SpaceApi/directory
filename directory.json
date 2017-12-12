@@ -136,7 +136,7 @@
   "brmlab":"http://nat.brmlab.cz/brmd/brmstatus.json",
   "bytewerk":"http://stats.bytewerk.org/status.json",
   "c-base":"http://www.c-base.org/status.json",
-  "flipdot":"https://raw.githubusercontent.com/kssoz/node-flipdot/1cda584a4c0ba474fe46678bc5a63070c1f598c5/spaceapi.json",
+  "flipdot":"https://api.flipdot.org/",
   "hackzogtum":"http://mmisc.de/~legion/spaceApiEndpoint/index.php",
   "init Lab":"https://fauna.initlab.org/spaceapi/status.json",
   "mag.lab":"https://state.maglab.space/spaceapi.json",
