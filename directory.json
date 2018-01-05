@@ -36,7 +36,7 @@
   "Die foobar":"http://foobarstatus.nomoketo.de/status.json",
   "Dingfabrik":"http://dingfabrik.de/status/spaceapi.php",
   "Dlabs Hackerspace":"http://www.dlabs.co/api.php",
-  "Do It Yourself Werkstatt Wilhelmshaven":"http://www.diyww.de/api/status",
+  "Do It Yourself Werkstatt Wilhelmshaven":"https://www.diyww.de/api/status",
   "Edinburgh Hacklab":"http://spaceapi.edinburghhacklab.com/spaceapi.json",
   "Eigenbaukombinat Halle":"http://api.terminal21.de/status_ebk.json",
   "Entropia":"http://club.entropia.de/spaceapi",
