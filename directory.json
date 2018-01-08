@@ -90,6 +90,7 @@
   "MidsouthMakers":"http://midsouthmakers.org/spaceapi/",
   "Milwaukee Makerspace":"http://apps.2xlnetworks.net/milwaukeemakerspace/",
   "Minsk Hackerspace":"http://hackerspace.by/spaceapi",
+  "Motionlab":"https://spaceapi.motionlab.berlin/",
   "MuCCC":"http://api.muc.ccc.de/spaceapi.json",
   "Munich Maker Lab":"http://status.munichmakerlab.de/spaceapi.php",
   "NURDSpace":"http://space.nurdspace.nl/spaceapi/status.json",
@@ -151,6 +152,5 @@
   "turmlabor":"http://www.turmlabor.de/spaces.api",
   "verschwoerhaus":"https://verschwoerhaus.de/feed/spaceapi",
   "vspace.one":"https://vspace.one/spaceapi.json",
-  "xHain":"https://x-hain.de/spaceapi-0.13.json",
-  "Motionlab":"https://spaceapi.motionlab.berlin/"
+  "xHain":"https://x-hain.de/spaceapi-0.13.json"
 }
