@@ -16,6 +16,7 @@
   "Bytespeicher":"http://status.bytespeicher.org/status.json",
   "C3D2":"https://www.c3d2.de/spaceapi.json",
   "CADR":"http://cadrspace.ru/status/json",
+  "CCC Cologne":"https://api.koeln.ccc.de",
   "CCC Hamburg":"https://hamburg.ccc.de/dooris/status.json",
   "CCC Mannheim":"https://www.ccc-mannheim.de/spaceapi/spaceapi.json",
   "CCCFr":"http://cccfr.de/status/spaceapi.py",
