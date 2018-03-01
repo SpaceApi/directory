@@ -79,6 +79,7 @@
   "LAG":"https://state.laglab.org/spaceapi.json",
   "Laboratoire Ouvert Grenoblois":"https://www.logre.eu/spaceapi.json",
   "Laboratorio Hacker de Campinas":"http://lhc.net.br/spacenet.json",
+  "LambdaSpace":"https://api.lambdaspace.gr/api/v2.0/SpaceAPI",
   "Le Loop":"http://spaceapi.leloop.org/status.json",
   "LeineLab":"http://status.leinelab.org/api/spaceapi.json",
   "Level2":"https://www.hackerspace.lu/od/",
