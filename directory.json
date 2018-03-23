@@ -48,6 +48,7 @@
   "FIXME":"https://fixme.ch/cgi-bin/spaceapi.py",
   "FabLab Neustadt a. d. Aisch - Bad Windsheim":"https://www.fablab-nea.de/status/json",
   "FabLab N\u00fcrnberg":"http://api.fablab-nuernberg.de/spaceapi.php",
+  "Forschung und Technik e.V.":"https://spaceapi.futev.de/spaceapi.json",
   "Frack":"http://frack.nl/spacestate/?api",
   "Freies Labor":"https://freieslabor.org/api/info",
   "Freiraum":"http://hackerspace-ulm.de/status.json",
