@@ -158,5 +158,6 @@
   "turmlabor":"http://www.turmlabor.de/spaces.api",
   "verschwoerhaus":"https://verschwoerhaus.de/feed/spaceapi",
   "vspace.one":"https://vspace.one/spaceapi.json",
-  "xHain":"https://x-hain.de/spaceapi-0.13.json"
+  "xHain":"https://x-hain.de/spaceapi-0.13.json",
+  "Ko-Lab":"https://ko-lab.space/spaceapi/"
 }
