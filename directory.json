@@ -145,7 +145,7 @@
   "bytewerk":"http://stats.bytewerk.org/status.json",
   "c-base":"http://www.c-base.org/status.json",
   "flipdot":"https://api.flipdot.org/",
-  "hackzogtum":"http://mmisc.de/~legion/spaceApiEndpoint/index.php",
+  "hackzogtum":"http://178.254.28.117/spaceApiEndpoint/index.php",
   "init Lab":"https://fauna.initlab.org/spaceapi/status.json",
   "mag.lab":"https://state.maglab.space/spaceapi.json",
   "nbsp":"http://nobreakspace.org/status/spaceapi.json",
