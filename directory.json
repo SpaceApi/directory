@@ -34,6 +34,7 @@
   "Chaostreff Recklinghausen c3RE":"http://doorstatus.c3re.de/status/json",
   "Chaostreff Salzburg":"https://spaceapi.sbg.chaostreff.at/status/json",
   "Chaostreff-Dortmund":"http://status.ctdo.de/api/spaceapi/v13",
+  "Chaostreff Zürich": "https://www.ccczh.ch/api/v13/",
   "Coredump":"https://status.crdmp.ch/",
   "DevLoL":"https://devlol.org/status/hackerspaceapi/",
   "dezentrale":"https://dezentrale.space/api/status.json",
