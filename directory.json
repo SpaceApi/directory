@@ -36,6 +36,7 @@
   "Chaostreff-Dortmund":"http://status.ctdo.de/api/spaceapi/v13",
   "Chaostreff Zürich": "https://www.ccczh.ch/api/v13/",
   "Coredump":"https://status.crdmp.ch/",
+  "Das Labor":"https://das-labor.org/status/api",
   "DevLoL":"https://devlol.org/status/hackerspaceapi/",
   "dezentrale":"https://dezentrale.space/api/status.json",
   "Dingfabrik":"http://dingfabrik.de/status/spaceapi.php",
