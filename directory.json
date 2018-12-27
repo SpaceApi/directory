@@ -1,5 +1,6 @@
 {
   "/dev/tal":"https://www.devtal.de/api/",
+  "/usr/space":"https://usrspace.at/spaceapi",
   "57North Hacklab":"http://57north.co/spaceapi",
   "ACKspace":"https://ackspace.nl/spaceAPI/",
   "AFRA":"http://geruempel.ddns.net/status.json",
