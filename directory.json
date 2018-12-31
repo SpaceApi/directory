@@ -69,6 +69,7 @@
   "Hackerspace Bielefeld e.V.":"https://hackerspace-bielefeld.de/spacestatus/status.json",
   "Hackerspace Bremen e.V.":"http://hackerspacehb.appspot.com/status",
   "Hackerspace KRK":"http://hskrk-spacemon.herokuapp.com",
+  "Hackerspace Nijmegen":"https://hsnmgn.hacklabs.nl/apis/spacestate.php",
   "Hackerspace.gr":"http://www.hackerspace.gr/spaceapi",
   "Hacklab":"https://hacklab.kiev.ua/files/spaceapi.json",
   "Hacklabor":"https://hacklabor.de/api/space/v1/",
