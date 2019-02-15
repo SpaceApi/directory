@@ -121,7 +121,7 @@
   "Polytechnischer Werkraum Zittau":"https://werkraum.freiraumzittau.de/spaceapi/13/",
   "Post Tenebras Lab":"https://www.posttenebraslab.ch/status/status.json",
   "Quelab":"http://quelab.atomickiva.net/spaceapi.test",
-  "Reaktor 23":"http://spaceapi.reaktor23.org/spaceapi",
+  "Reaktor 23":"http://spaceapi.reaktor23.org",
   "Recompile":"http://www.recompile.se/spaceapi",
   "RevSpace":"http://revspace.nl/status/status.php",
   "Root":"https://bot.rootclub.it:8081/spaceapi.json",
