@@ -75,7 +75,7 @@
   "Hacklabor":"https://hacklabor.de/api/space/v1/",
   "Hacksaar":"http://spaceapi.hacksaar.de/status.json",
   "Hackspace Manchester":"http://spaceapi.hacman.org.uk/",
-  "Hackspace Siegen":"http://spaceapi.hasi.it/",
+  "Hackspace Siegen":"https://status.hasi.it/spaceapi",
   "HeatSync Labs":"http://members.heatsynclabs.org/space_api.json",
   "Heidelberg Makerspace":"https://heidelberg-makerspace.de/status.json",
   "IT-Syndikat":"http://it-syndikat.org/api/status.php",
