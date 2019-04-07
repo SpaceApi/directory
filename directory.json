@@ -144,7 +144,7 @@
   "Ume\u00e5 Hackerspace":"http://umeahackerspace.se:12345/spaceapi.json",
   "UrLab":"https://urlab.be/spaceapi.json",
   "VoidWarranties":"http://spaceapi.voidwarranties.be",
-  "Warpzone e.V.":"https://www.warpzone.ms/api/spaceapi.php",
+  "Warpzone e.V.":"https://api.warpzone.ms/spaceapi",
   "Warsaw Hackerspace":"https://hackerspace.pl/spaceapi",
   "Wolfplex Hackerspace":"https://api.wolfplex.be/space",
   "[hsmr]":"https://hsmr.cc/spaceapi.json",
