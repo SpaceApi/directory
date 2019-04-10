@@ -154,6 +154,7 @@
   "bytewerk":"http://stats.bytewerk.org/status.json",
   "c-base":"http://www.c-base.org/status.json",
   "flipdot":"https://api.flipdot.org/",
+  "fNordeingang":"https://fnord.istsystemrelevant.de/spaceapi.json",
   "hackzogtum":"https://spaceapi.hackzogtum-coburg.de",
   "init Lab":"https://fauna.initlab.org/spaceapi/status.json",
   "mag.lab":"https://state.maglab.space/spaceapi.json",
