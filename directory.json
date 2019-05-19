@@ -92,7 +92,7 @@
   "London Hackspace":"https://london.hackspace.org.uk/spaceapi",
   "Maakplek":"http://maakplek.nl/api/",
   "Mainframe":"http://status.mainframe.io/api/spaceInfo",
-  "MakeRiga":"http://api.makeriga.org/spaceapi.json",
+  "MakeRiga":"https://api.makeriga.org/spaceapi.json",
   "Makers Local 256":"https://256.makerslocal.org/status.json",
   "Makerspace Erfurt":"https://status.makerspace-erfurt.de/status.json",
   "MakeSpace Madrid" : "https://makespacemadrid.org/spaceapi/status.json",
