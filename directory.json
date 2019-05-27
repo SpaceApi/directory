@@ -40,7 +40,7 @@
   "Das Labor":"https://das-labor.org/status/api",
   "DevLoL":"https://devlol.org/status/hackerspaceapi/",
   "dezentrale":"https://dezentrale.space/api/status.json",
-  "DingFabrik e.V.":"http://status.dingfabrik.de/spaceapi.php",
+  "DingFabrik e.V.":"https://status.dingfabrik.de/spaceapi.php",
   "Dlabs Hackerspace":"http://www.dlabs.co/api.php",
   "Do It Yourself Werkstatt Wilhelmshaven":"https://www.diyww.de/api/status",
   "Edinburgh Hacklab":"http://spaceapi.edinburghhacklab.com/spaceapi.json",
