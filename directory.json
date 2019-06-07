@@ -111,6 +111,7 @@
   "NURDSpace":"http://space.nurdspace.nl/spaceapi/status.json",
   "Netz39":"http://spaceapi.n39.eu/json",
   "Netzladen":"http://netzladen.org/api/status.json",
+  "Nerd2Nerd":"https://api.nerd2nerd.org/status.json",
   "Noklab":"https://cccgoe.de/spaceapi.php",
   "Nottinghack":"http://lspace.nottinghack.org.uk/status/status.php",
   "Nova Labs":"http://nova-labs.org/api/",
