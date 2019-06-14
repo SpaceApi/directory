@@ -1,4 +1,4 @@
-OpenSpaceDirectory
+SpaceAPI directory
 ==================
 
 The Space API directory is a list of hackerspaces that have the Space API
