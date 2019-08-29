@@ -174,5 +174,6 @@
   "xHain":"https://x-hain.de/spaceapi-0.13.json",
   "Ko-Lab":"https://ko-lab.space/spaceapi/",
   "UN-Hack-Bar":"https://keinanschluss.un-hack-bar.de/spaceapi.json",
-  "z-Labor Zwickau":"http://api.service.z-labor.space/spaceapi.json"
+  "z-Labor Zwickau":"http://api.service.z-labor.space/spaceapi.json",
+  "SchonungsLos":"https://www.hackerspace-sw.de/spaceapi.json",
 }
