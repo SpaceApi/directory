@@ -130,6 +130,7 @@
   "Recompile":"http://www.recompile.se/spaceapi",
   "RevSpace":"http://revspace.nl/status/status.php",
   "Root":"https://bot.rootclub.it:8081/spaceapi.json",
+  "Segmentation Vault":"http://www.mesanova.com/internal/spacecore/opendata/spaceapi",
   "Spline":"https://iot.spline.de/api/status.json",
   "Starship Factory":"http://spaceapi.apis.starship-factory.ch/api/spaceapi",
   "Stratum 0":"http://status.stratum0.org/status.json",
