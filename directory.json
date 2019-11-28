@@ -72,7 +72,7 @@
   "Hackerspace KRK":"http://hskrk-spacemon.herokuapp.com",
   "Hackerspace Nijmegen":"https://hsnmgn.hacklabs.nl/apis/spacestate.php",
   "Hackerspace.gr":"http://www.hackerspace.gr/spaceapi",
-  "Hackerspace.Gent":"https://mqtt.hackerspace.gent/spaceapi.json",
+  "Hackerspace.Gent":"https://hackerspace.gent/spaceapi.php",
   "Hacklab":"https://hacklab.kiev.ua/files/spaceapi.json",
   "Hacklabor":"https://hacklabor.de/api/space/v1/",
   "Hacksaar":"http://spaceapi.hacksaar.de/status.json",
