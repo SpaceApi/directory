@@ -42,7 +42,7 @@
   "dezentrale":"https://dezentrale.space/api/status.json",
   "DingFabrik e.V.":"https://status.dingfabrik.de/spaceapi.php",
   "Dlabs Hackerspace":"http://www.dlabs.co/api.php",
-  "Do It Yourself Werkstatt Wilhelmshaven":"https://www.diyww.de/api/status",
+  "Do It Yourself Werkstatt Wilhelmshaven":"https://status.diyww.de/status.json",
   "Edinburgh Hacklab":"http://spaceapi.edinburghhacklab.com/spaceapi.json",
   "Eigenbaukombinat Halle":"http://api.terminal21.de/status_ebk.json",
   "Entropia":"http://club.entropia.de/spaceapi",
