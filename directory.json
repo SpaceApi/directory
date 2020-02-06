@@ -21,6 +21,7 @@
   "CCC Basel":"https://spaceapi.kabelsalat.ch/",
   "CCC Bremen":"https://schalter.ccchb.de/spaceapi.json",
   "CCC Cologne":"https://api.koeln.ccc.de",
+  "CCC Frankfurt":"https://status.ccc-ffm.de/spaceapi",
   "CCC Hamburg":"https://hamburg.ccc.de/dooris/status.json",
   "CCC Mannheim":"https://www.ccc-mannheim.de/spaceapi/spaceapi.json",
   "CCCFr":"http://cccfr.de/status/spaceapi.py",
