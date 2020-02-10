@@ -102,6 +102,7 @@
   "Makers im Zigerschlitz":"https://api.zigerschlitzmakers.ch/space-api.json",
   "Makers Local 256":"https://256.makerslocal.org/status.json",
   "Makerspace Erfurt":"https://status.makerspace-erfurt.de/status.json",
+  "Makerspace Gütersloh":"https://makerspace-gt.de/space-api/space-api.json",
   "MakeSpace Madrid" : "https://makespacemadrid.org/spaceapi/status.json",
   "Maschinendeck":"http://state.maschinendeck.org/spaceapi.json",
   "Maschinenraum":"http://api.maschinenraum.tk/status.json",
