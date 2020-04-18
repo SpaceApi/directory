@@ -110,7 +110,7 @@
   "MetaMeute":"https://status.metameute.de/spaceapi.json",
   "MidsouthMakers":"http://midsouthmakers.org/spaceapi/",
   "Milwaukee Makerspace":"http://apps.2xlnetworks.net/milwaukeemakerspace/",
-  "Minsk Hackerspace":"http://hackerspace.by/spaceapi",
+  "Minsk Hackerspace":"https://hackerspace.by/spaceapi",
   "Mittelab": "https://api.mittelab.org/spaceapi",
   "Motionlab":"https://spaceapi.motionlab.berlin/",
   "MuCCC":"http://api.muc.ccc.de/spaceapi.json",
