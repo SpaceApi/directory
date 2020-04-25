@@ -1,15 +1,10 @@
 SpaceAPI directory
 ==================
 
-The Space API directory is a list of hackerspaces that have the Space API
+The SpaceAPI directory is a list of spaces that have the SpaceAPI
 implemented.
 
-If your hackerspace is missing in the list, fork the repository,
-add your space and create a pull request in Github.
+If your space is missing in the [list](./directory.json), [fork the repository](https://github.com/SpaceApi/directory),
+add your space and create a pull request in GitHub.
 
-Find more information about the SpaceAPI on https://spaceapi.io.
-
-The purpose of the directory is to provide a stable API with a list of all
-hackerspaces for applications like [MyHackerspace] and similar.
-
-[MyHackerspace]: https://github.com/fixme-lausanne/MyHackerspace
+Find more information about the SpaceAPI on [spaceapi.io](https://spaceapi.io).
