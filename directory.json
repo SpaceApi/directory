@@ -32,7 +32,7 @@
   "Chaostreff Dortmund": "http://status.ctdo.de/api/spaceapi/v13",
   "Chaostreff Flensburg": "https://api.chaostreff-flensburg.de/",
   "Chaostreff Potsdam (CCCP)": "https://www.ccc-p.org/spaceapi.json",
-  "Chaostreff Recklinghausen c3RE": "http://doorstatus.c3re.de/status/json",
+  "Chaostreff Recklinghausen c3RE": "https://spaceapi.c3re.de/",
   "Chaostreff Salzburg": "https://spaceapi.sbg.chaostreff.at/status/json",
   "Chaostreff Zürich": "https://www.ccczh.ch/api/v13/",
   "Coredump": "https://status.crdmp.ch/",
