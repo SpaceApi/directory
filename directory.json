@@ -63,6 +63,7 @@
   "Hackerspace Nijmegen": "https://hsnmgn.hacklabs.nl/apis/spacestate.php",
   "Hackerspace.Gent": "https://hackerspace.gent/spaceapi.php",
   "Hackerspace.gr": "http://www.hackerspace.gr/spaceapi",
+  "Hackerspace Szeged": "https://api.hackerspace-szeged.org",
   "Hacklab": "https://hacklab.kiev.ua/files/spaceapi.json",
   "Hacklabor": "https://hacklabor.de/api/space/v1/",
   "Hacksaar": "http://spaceapi.hacksaar.de/status.json",
