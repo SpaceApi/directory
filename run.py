@@ -46,7 +46,7 @@ for space in spaceCountryList:
 		space["iso-3166-1-alpha-2"] = "DE"
 		
 with open(OUTPUT_PATH, 'w') as fw:
-	json.dump(spaceCountryList, fw)
+	json.dump(spaceCountryList, fw, indent="\t")
 
 print("Objects Processed:")
 print(count)
