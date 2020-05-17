@@ -1,5 +1,6 @@
 # Get countries from SpaceAPI directory, and recombine into new JSON
 # Python 3.6.1
+# Runtime 3 minutes
 
 import json
 from urllib.request import urlopen
@@ -25,6 +26,8 @@ for (k, v) in spaceJSON.items():
 	spaceCountryItem["url"] = v
 	spaceCountryItem["country"] = ""
 	spaceCountryItem["iso-3166-1-alpha-2"] = ""
+	spaceCountryItem["lat"] = ""
+	spaceCountryItem["lon"] = ""
 	spaceCountryList.append(spaceCountryItem)
 	count = count + 1
 
@@ -33,6 +36,8 @@ for space in spaceCountryList:
 		spaceIdentityJSONfile = urlopen( space["url"] )
 		spaceIdentityJSON = json.load(spaceIdentityJSONfile)
 		spaceCountryList[ space["id"] ]["address"] = spaceIdentityJSON["location"]["address"]
+		spaceCountryList[ space["id"] ]["lat"] = spaceIdentityJSON["location"]["lat"]
+		spaceCountryList[ space["id"] ]["lon"] = spaceIdentityJSON["location"]["lon"]
 	except:
 		spaceCountryList[ space["id"] ]["address"] = ""
 
