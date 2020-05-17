@@ -5,6 +5,8 @@
 		"url": "https://www.devtal.de/api/",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.2670186,
+		"lon": 7.145392,
 		"address": "Mirker Str. 48, 42105 Wuppertal, Germany"
 	},
 	{
@@ -13,6 +15,8 @@
 		"url": "https://usrspace.at/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.92305,
+		"lon": 16.21173,
 		"address": "M\u00fchlgasse 8, 2544 Leobersdorf, Austria"
 	},
 	{
@@ -21,6 +25,8 @@
 		"url": "http://57north.co/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 57.147295,
+		"lon": -2.106229,
 		"address": "Engage Gaming, at 26 North Silver Street, AB10 1RL"
 	},
 	{
@@ -29,6 +35,8 @@
 		"url": "https://ackspace.nl/spaceAPI/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 50.8924622,
+		"lon": 5.9712601,
 		"address": "Kloosterweg 1, 6412 CN Heerlen"
 	},
 	{
@@ -37,6 +45,8 @@
 		"url": "https://spaceapi.afra-berlin.de/v1/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.5082224,
+		"lon": 13.4961541,
 		"address": "Margaretenstr. 30, 10317 Berlin, Germany"
 	},
 	{
@@ -45,6 +55,8 @@
 		"url": "https://apollo.open-resource.org/status.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -53,6 +65,8 @@
 		"url": "https://archreactor.org/status.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 38.6256,
+		"lon": -90.214629,
 		"address": "2215 Scott Avenue Saint Louis, MO 63103"
 	},
 	{
@@ -61,6 +75,8 @@
 		"url": "http://blog.attraktor.org/spaceapi/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 53.5498443,
+		"lon": 9.946661,
 		"address": "Eschelsweg 4, 22767 Hamburg, Germany"
 	},
 	{
@@ -69,6 +85,8 @@
 		"url": "http://bastli.ch/hackspace_api.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.37861,
+		"lon": 8.54924,
 		"address": "AMIV Bastli, CAB E38, Universit\u00e4tsstrasse 6, 8092 Z\u00fcrich, Switzerland"
 	},
 	{
@@ -77,6 +95,8 @@
 		"url": "https://www.binary-kitchen.de/spaceapi.php",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 49.00985285639763,
+		"lon": 12.118982076644897,
 		"address": "Binary Kitchen e.V., Walderdorffstr. 13b, 93053 Regensburg"
 	},
 	{
@@ -85,6 +105,8 @@
 		"url": "https://bitlair.nl/statejson.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.177323,
+		"lon": 5.414782,
 		"address": "Computerweg 20A, 3821 AB Amersfoort, The Netherlands"
 	},
 	{
@@ -93,6 +115,8 @@
 		"url": "http://breizh-entropy.org/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 48.106,
+		"lon": -1.651,
 		"address": "48 Boulevard Villebois Mareuil, 35000 Rennes, France"
 	},
 	{
@@ -101,6 +125,8 @@
 		"url": "https://spaceapi.azurewebsites.net/api/Status",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 50.9509964,
+		"lon": 5.230583,
 		"address": "Spalbeekstraat 34, 3510 Spalbeek, Belgium"
 	},
 	{
@@ -109,6 +135,8 @@
 		"url": "http://status.bytespeicher.org/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.98271,
+		"lon": 11.03965,
 		"address": "Liebknechtstrasse 8, 99085 Erfurt, Germany"
 	},
 	{
@@ -117,6 +145,8 @@
 		"url": "https://www.c3d2.de/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -125,6 +155,8 @@
 		"url": "https://status.aachen.ccc.de/spaceapi",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.7851514,
+		"lon": 6.1077813,
 		"address": "Chaos Computer Club Aachen e.V., J\u00fclicher Stra\u00dfe 191, 52070 Aachen"
 	},
 	{
@@ -133,6 +165,8 @@
 		"url": "https://spaceapi.kabelsalat.ch/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.5323266,
+		"lon": 7.6342312,
 		"address": "Birsfelderstrasse 6, 4132 Muttenz, Switzerland"
 	},
 	{
@@ -141,6 +175,8 @@
 		"url": "https://api.koeln.ccc.de",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.9504142,
+		"lon": 6.9129647,
 		"address": "Chaos Computer Club Cologne (c4) e.V., Heliosstr. 6a, 50825 K\u00f6ln, Germany"
 	},
 	{
@@ -149,6 +185,8 @@
 		"url": "https://status.ccc-ffm.de/spaceapi",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.12417,
+		"lon": 8.63622,
 		"address": "Chaos Computer Club Frankfurt e.V., H\u00e4user Gasse 2, 60487 Frankfurt, Germany"
 	},
 	{
@@ -157,6 +195,8 @@
 		"url": "https://hamburg.ccc.de/dooris/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 53.55836,
+		"lon": 9.94459,
 		"address": "Zeiseweg 9, 22765 Hamburg, Germany"
 	},
 	{
@@ -165,6 +205,8 @@
 		"url": "https://www.ccc-mannheim.de/spaceapi/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 49.46369,
+		"lon": 8.48862,
 		"address": "CCC Mannheim e.V, Neckarauer Stra\u00dfe 106-116, 68163 Mannheim"
 	},
 	{
@@ -173,6 +215,8 @@
 		"url": "http://cccfr.de/status/spaceapi.py",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 47.993194,
+		"lon": 7.840502,
 		"address": "Adlerstr. 12a, 79098 Freiburg, Deutschland"
 	},
 	{
@@ -181,6 +225,8 @@
 		"url": "https://api.space.c3w.at/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 48.2093723,
+		"lon": 16.356099,
 		"address": "Rathausstrasse 6, 1010 Wien, Austria"
 	},
 	{
@@ -189,6 +235,8 @@
 		"url": "http://api.chaos-darmstadt.de/json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -197,6 +245,8 @@
 		"url": "https://spaceapi.c3l.lu/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 49.620709,
+		"lon": 6.122581,
 		"address": "60 Victor Hugo Avenue, Luxembourg-Limpertsberg, L-1750, Luxembourg"
 	},
 	{
@@ -205,6 +255,8 @@
 		"url": "http://chaos-consulting.de/api/space.api",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.37435,
+		"lon": 7.69803,
 		"address": "Alter Rathausplatz 12, 58636 Iserlohn, Germany"
 	},
 	{
@@ -213,6 +265,8 @@
 		"url": "https://chaosdorf.de/space_api.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.21656,
+		"lon": 6.78347,
 		"address": "Chaos Computer Club D\u00fcsseldorf / Chaosdorf e.V., H\u00fcttenstr. 25, 40215 D\u00fcsseldorf, Germany"
 	},
 	{
@@ -221,6 +275,8 @@
 		"url": "https://status.chaospott.de/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.438476,
+		"lon": 7.024991,
 		"address": "Sibyllastr. 9, 45136 Essen, Germany"
 	},
 	{
@@ -229,6 +285,8 @@
 		"url": "https://www.chaosbern.ch/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 46.956,
+		"lon": 7.4484,
 		"address": "Kyburgstrasse 13, 3013 Bern, Switzerland"
 	},
 	{
@@ -237,6 +295,8 @@
 		"url": "https://chaoschemnitz.de/chch.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.830659,
+		"lon": 12.939537,
 		"address": "Augustusburger Str. 102, 09126 Chemnitz, Germany"
 	},
 	{
@@ -245,6 +305,8 @@
 		"url": "http://status.ctdo.de/api/spaceapi/v13",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.527611,
+		"lon": 7.4649449,
 		"address": "Braunschweiger Str 22, 44145 Dortmund, Germany"
 	},
 	{
@@ -253,6 +315,8 @@
 		"url": "https://api.chaostreff-flensburg.de/",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 54.8045,
+		"lon": 9.42341,
 		"address": "Apenrader Str. 49, 24939 Flensburg"
 	},
 	{
@@ -261,6 +325,8 @@
 		"url": "https://www.ccc-p.org/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.389424,
+		"lon": 13.078555,
 		"address": "machBar, freiLand - Haus 5, Friedrich-Engels-Str. 22, 14473 Potsdam, Germany"
 	},
 	{
@@ -269,6 +335,8 @@
 		"url": "https://spaceapi.c3re.de/",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.62435592244,
+		"lon": 7.1690101828426,
 		"address": "Westcharweg 101, 45659 Recklinghausen"
 	},
 	{
@@ -277,6 +345,8 @@
 		"url": "https://spaceapi.sbg.chaostreff.at/status/json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -285,6 +355,8 @@
 		"url": "https://www.ccczh.ch/api/v13/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.39306,
+		"lon": 8.524826,
 		"address": "Chaos Computer Club Z\u00fcrich, R\u00f6schibachstrasse 26, 8037 Z\u00fcrich, Switzerland"
 	},
 	{
@@ -293,6 +365,8 @@
 		"url": "https://status.crdmp.ch/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.2359607,
+		"lon": 8.8410057,
 		"address": "Neue Jonastrasse 107, 8640 Rapperswil, Switzerland"
 	},
 	{
@@ -301,6 +375,8 @@
 		"url": "https://das-labor.org/status/api",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.4806253,
+		"lon": 7.2065778,
 		"address": "Alleestrasse 50, 44793 Bochum, Germany"
 	},
 	{
@@ -309,6 +385,8 @@
 		"url": "https://devlol.org/status/hackerspaceapi/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 48.30573,
+		"lon": 14.28383,
 		"address": "Hofgasse 19, 4020 Linz, Austria"
 	},
 	{
@@ -317,6 +395,8 @@
 		"url": "https://status.dingfabrik.de/spaceapi.php",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.953546,
+		"lon": 6.93012,
 		"address": "Fritz-Voigt-Str. 1, 50823 Cologne, Germany"
 	},
 	{
@@ -325,6 +405,8 @@
 		"url": "https://status.diyww.de/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 53.617,
+		"lon": 8.091,
 		"address": "Kreuzstra\u00dfe 54, 26382 Wilhelmshaven, Germany"
 	},
 	{
@@ -333,6 +415,8 @@
 		"url": "http://spaceapi.edinburghhacklab.com/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 55.939797,
+		"lon": -3.18162,
 		"address": "1 Summerhall, Edinburgh, EH9 1PL, United Kingdom"
 	},
 	{
@@ -341,6 +425,8 @@
 		"url": "http://api.terminal21.de/status_ebk.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.47996,
+		"lon": 11.99221,
 		"address": "Landsberger Stra\u00dfe 3, 06112 Halle, Germany"
 	},
 	{
@@ -349,6 +435,8 @@
 		"url": "http://club.entropia.de/spaceapi",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 49.0067,
+		"lon": 8.407438,
 		"address": "Entropia e.V., Gewerbehof, Steinstra\u00dfe 23, 76133 Karlsruhe, Germany"
 	},
 	{
@@ -357,6 +445,8 @@
 		"url": "https://fablab.fau.de/spaceapi/",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -365,6 +455,8 @@
 		"url": "https://fixme.ch/cgi-bin/spaceapi.py",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 46.532372,
+		"lon": 6.591292,
 		"address": "Chemin du Closel 3, 1020 Renens, Switzerland"
 	},
 	{
@@ -373,6 +465,8 @@
 		"url": "http://api.fablab-nuernberg.de/spaceapi.php",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 49.4604503,
+		"lon": 11.0292046,
 		"address": "Fab Lab N\u00fcrnberg e.V., Muggenhofer Stra\u00dfe 141, 90429 N\u00fcrnberg, Germany"
 	},
 	{
@@ -381,6 +475,8 @@
 		"url": "https://spaceapi.futev.de/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.485936,
+		"lon": 7.333012,
 		"address": "Am Seitenkanal 8b, 49811 Lingen, Germany"
 	},
 	{
@@ -389,6 +485,8 @@
 		"url": "http://frack.nl/spacestate/?api",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 53.1997015,
+		"lon": 5.8005792,
 		"address": "Blokhuisplein 40, 8911 LJ, Leeuwarden, The Netherlands"
 	},
 	{
@@ -397,6 +495,8 @@
 		"url": "https://freieslabor.org/api/info",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.168625,
+		"lon": 9.947232,
 		"address": "Richthofenstr. 29, 31137 Hildesheim, Germany"
 	},
 	{
@@ -405,6 +505,8 @@
 		"url": "https://garoahc.appspot.com/status",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -413,6 +515,8 @@
 		"url": "http://spaceapi.geeklabs.dk/?format=json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 55.46469,
+		"lon": 8.459608,
 		"address": "Gasv\u00e6rksgade 2, k\u00e6lderen, 6700 Esbjerg"
 	},
 	{
@@ -421,6 +525,8 @@
 		"url": "https://vsza.hu/hacksense/spaceapi_status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.489167,
+		"lon": 19.059444,
 		"address": "B\u00e1stya u. 12., 1056 Budapest, Hungary"
 	},
 	{
@@ -429,6 +535,8 @@
 		"url": "https://portal.hsbne.org/api/spacedirectory/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -437,6 +545,8 @@
 		"url": "http://api.hacdc.org/status.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 38.93355,
+		"lon": -77.035854,
 		"address": "1525 Newton St NW Washington, DC, USA 20010"
 	},
 	{
@@ -445,6 +555,8 @@
 		"url": "http://hack42.nl/spacestate/json.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.03746,
+		"lon": 5.9026,
 		"address": "Koningsweg 31a, 6816TG Arnhem, Nederland"
 	},
 	{
@@ -453,6 +565,8 @@
 		"url": "https://hackalot.nl/statejson",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.438004,
+		"lon": 5.497989,
 		"address": "Ruysdaelbaan 106, 5613 DL Eindhoven, The Netherlands"
 	},
 	{
@@ -461,6 +575,8 @@
 		"url": "http://door.hackeriet.no/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 59.919293,
+		"lon": 10.753475,
 		"address": "Hausmania, Hausmannsgate 34, 0182 Oslo, Norway"
 	},
 	{
@@ -469,6 +585,8 @@
 		"url": "https://hackerspace-bielefeld.de/spacestatus/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.038224,
+		"lon": 8.533056,
 		"address": "Sudbrackstrasse 42, 33611 Bielefeld, Germany"
 	},
 	{
@@ -477,6 +595,8 @@
 		"url": "http://hackerspacehb.appspot.com/status",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -485,6 +605,8 @@
 		"url": "http://hskrk-spacemon.herokuapp.com",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 50.066085,
+		"lon": 19.943359,
 		"address": "Zacisze 5/P1, 31-156 Krak\u00f3w, Poland"
 	},
 	{
@@ -493,6 +615,8 @@
 		"url": "https://hsnmgn.hacklabs.nl/apis/spacestate.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -501,6 +625,8 @@
 		"url": "https://hackerspace.gent/spaceapi.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.05977,
+		"lon": 3.732478,
 		"address": "Blekerijstraat 75, 9000 Gent, Belgium"
 	},
 	{
@@ -509,6 +635,8 @@
 		"url": "http://www.hackerspace.gr/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 38.01695,
+		"lon": 23.73124,
 		"address": "Ampatielou 11, 11144 Athens, Greece"
 	},
 	{
@@ -517,6 +645,8 @@
 		"url": "https://api.hackerspace-szeged.org",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 46.260209,
+		"lon": 20.130756,
 		"address": "Cserzy Mih\u00e1ly u. 30/B. basement, 6724 Szeged, Hungary"
 	},
 	{
@@ -525,6 +655,8 @@
 		"url": "https://hacklab.kiev.ua/files/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 50.47848,
+		"lon": 30.491779,
 		"address": "Novokostyantynivska Street 1B, Kyiv, Ukraine"
 	},
 	{
@@ -533,6 +665,8 @@
 		"url": "https://hacklabor.de/api/space/v1/",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 53.6011,
+		"lon": 11.4183,
 		"address": "Hagenower Str. 73, 19061 Schwerin, Germany"
 	},
 	{
@@ -541,6 +675,8 @@
 		"url": "http://spaceapi.hacksaar.de/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 49.240431,
+		"lon": 6.973817,
 		"address": "St.-Josef-Strasse 8, 66115 Saarbrcken, Germany"
 	},
 	{
@@ -549,6 +685,8 @@
 		"url": "https://status.hasi.it/spaceapi",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.86904,
+		"lon": 8.00464,
 		"address": "Effertsufer 104, 57072 Siegen, Germany"
 	},
 	{
@@ -557,6 +695,8 @@
 		"url": "http://members.heatsynclabs.org/space_api.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -565,6 +705,8 @@
 		"url": "http://it-syndikat.org/api/status.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.2578,
+		"lon": 11.3961,
 		"address": "Tschamlerstrasse 3, 6020 Innsbruck, Austria"
 	},
 	{
@@ -573,6 +715,8 @@
 		"url": "http://spaceapi.k4cg.org/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 49.4490669,
+		"lon": 11.0785099,
 		"address": "Peuntgasse 5, 90402 Nuernberg"
 	},
 	{
@@ -581,6 +725,8 @@
 		"url": "https://vloer.ko-lab.space/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 4.48279,
+		"lon": 51.022163,
 		"address": "Potterijstraat 5, 2800 Mechelen, Belgium"
 	},
 	{
@@ -589,6 +735,8 @@
 		"url": "https://status.kraut.space/api",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.9292,
+		"lon": 11.5826,
 		"address": "Hackspace Jena e. V., Krautgasse 26, 07743 Jena, Germany"
 	},
 	{
@@ -597,6 +745,8 @@
 		"url": "https://metaespacio.kreitek.org/rest/spaceapi/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": -16.323105,
+		"lon": 28.480287,
 		"address": "Instituto Nuryana, Camino San Francisco de Paula 64 planta -2, San Cristobal de La Laguna, Santa Cruz de Tenerife, Spain"
 	},
 	{
@@ -605,6 +755,8 @@
 		"url": "https://state.laglab.org/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.35406,
+		"lon": 4.85423,
 		"address": "Eerste Schinkelstraat 16, 1075 TX Amsterdam, The Netherlands"
 	},
 	{
@@ -613,6 +765,8 @@
 		"url": "http://lhc.net.br/spacenet.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": -22.9081486,
+		"lon": -47.0771249,
 		"address": "Dr. Salles de Oliveira, 1800 - Campinas - SP, Brazil"
 	},
 	{
@@ -621,6 +775,8 @@
 		"url": "http://status.leinelab.org/api/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.401229161,
+		"lon": 9.702346623,
 		"address": "LeineLab, Burgweg 5, 30419 Hannover"
 	},
 	{
@@ -629,6 +785,8 @@
 		"url": "https://level2.lu/spaceapi/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 49.591595,
+		"lon": 6.14051,
 		"address": "87, route de Thionville, L-2611 Bonnevoie, Luxembourg"
 	},
 	{
@@ -637,6 +795,8 @@
 		"url": "https://lghs.be/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -645,6 +805,8 @@
 		"url": "https://london.hackspace.org.uk/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.55387,
+		"lon": -0.29002,
 		"address": "388 High Road, Wembley, HA9 6AR"
 	},
 	{
@@ -653,6 +815,8 @@
 		"url": "https://luxeria.ch/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.073,
+		"lon": 8.357,
 		"address": "Ebikonerstrasse 75, CH-6043 Adligenswil, Switzerland"
 	},
 	{
@@ -661,6 +825,8 @@
 		"url": "https://json.madspace.nl/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -669,6 +835,8 @@
 		"url": "http://maakplek.nl/api/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 53.231056,
+		"lon": 6.58389,
 		"address": "Maakplek, Struisvogelstraat 15, 9713 BT, Groningen, The Netherlands"
 	},
 	{
@@ -677,6 +845,8 @@
 		"url": "http://status.mainframe.io/api/spaceInfo",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 53.14402,
+		"lon": 8.21988,
 		"address": "Bahnhofsplatz 10, 26122 Oldenburg, Germany"
 	},
 	{
@@ -685,6 +855,8 @@
 		"url": "https://api.makeriga.org/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -693,6 +865,8 @@
 		"url": "https://makespacemadrid.org/spaceapi/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 40.399525,
+		"lon": -3.702446,
 		"address": "Calle Arquitectura 18 , 28005 Madrid, Spain"
 	},
 	{
@@ -701,6 +875,8 @@
 		"url": "https://256.makerslocal.org/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -709,6 +885,8 @@
 		"url": "https://api.zigerschlitzmakers.ch/space-api.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -717,6 +895,8 @@
 		"url": "https://status.makerspace-erfurt.de/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.973251,
+		"lon": 11.036885,
 		"address": "Buessleber Gasse 1, 99084 Erfurt, Germany"
 	},
 	{
@@ -725,6 +905,8 @@
 		"url": "https://makerspace-gt.de/space-api/space-api.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.9021432,
+		"lon": 8.3750429,
 		"address": "Bogenstrasse 1-8, 33334 Guetersloh, Germany"
 	},
 	{
@@ -733,6 +915,8 @@
 		"url": "https://maschinenstate.42dots.de",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 49.75294,
+		"lon": 6.63386,
 		"address": "Karl-Marx-Stra\u00dfe 18, 54290 Trier, Germany"
 	},
 	{
@@ -741,6 +925,8 @@
 		"url": "http://api.maschinenraum.tk/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -749,6 +935,8 @@
 		"url": "http://midsouthmakers.org/spaceapi/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -757,6 +945,8 @@
 		"url": "http://apps.2xlnetworks.net/milwaukeemakerspace/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 42.998085,
+		"lon": -87.898484,
 		"address": "2555 South Lenox Street, Milwaukee, WI 53207, USA"
 	},
 	{
@@ -765,6 +955,8 @@
 		"url": "https://hackerspace.by/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 53.94287,
+		"lon": 27.59749,
 		"address": "Basement near the entrance 3, vul. Biady 45, Minsk, Belarus"
 	},
 	{
@@ -773,6 +965,8 @@
 		"url": "https://api.mittelab.org/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 45.64567,
+		"lon": 13.7832,
 		"address": "via Manzoni 11, 34138 Trieste (TS), Italy"
 	},
 	{
@@ -781,6 +975,8 @@
 		"url": "https://spaceapi.motionlab.berlin/",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.4937883,
+		"lon": 13.4482159,
 		"address": "Halle 20, Bouchestrasse 12, 12435 Berlin, Germany, Europe"
 	},
 	{
@@ -789,6 +985,8 @@
 		"url": "http://api.muc.ccc.de/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 48.15367,
+		"lon": 11.56078,
 		"address": "He\u00dfstrasse 90, M\u00fcnchen, Germany"
 	},
 	{
@@ -797,6 +995,8 @@
 		"url": "http://status.munichmakerlab.de/spaceapi.php",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 48.158752,
+		"lon": 11.5482333,
 		"address": "Dachauer Str. 112f, 80636 M\u00fcnchen, Germany"
 	},
 	{
@@ -805,6 +1005,8 @@
 		"url": "http://space.nurdspace.nl/spaceapi/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.973273,
+		"lon": 5.669681,
 		"address": "Vergersweg 22-24, 6707 HT Wageningen, The Netherlands"
 	},
 	{
@@ -813,6 +1015,8 @@
 		"url": "https://api.nerd2nerd.org/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 49.801806,
+		"lon": 9.923105,
 		"address": "Veitsh\u00f6chheimer Str. 14, 97080 W\u00fcrzburg, Germany"
 	},
 	{
@@ -821,6 +1025,8 @@
 		"url": "https://status.nerdberg.de/api/space",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 49.47048,
+		"lon": 11.0033,
 		"address": "Jakobinenstra\u00dfe 26, 90762 Fuerth, Germany"
 	},
 	{
@@ -829,6 +1035,8 @@
 		"url": "http://spaceapi.n39.eu/json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.119561,
+		"lon": 11.629398,
 		"address": "Leibnizstr. 32, 39104 Magdeburg, Germany"
 	},
 	{
@@ -837,6 +1045,8 @@
 		"url": "http://netzladen.org/api/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.7396374,
+		"lon": 7.0965597,
 		"address": "Netzladen e.V., Breite Stra\u00dfe 74, 53111 Bonn, Germany"
 	},
 	{
@@ -845,6 +1055,8 @@
 		"url": "https://cccgoe.de/spaceapi.php",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.54533,
+		"lon": 9.94526,
 		"address": "Von-Bar-Str. 2-4, 37075 Goettingen, Germany"
 	},
 	{
@@ -853,6 +1065,8 @@
 		"url": "http://lspace.nottinghack.org.uk/status/status.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.9557,
+		"lon": -1.135,
 		"address": "Unit F6, Roden House Business Centre, Alfred Street South, Nottingham, NG3 1JH"
 	},
 	{
@@ -861,6 +1075,8 @@
 		"url": "http://nova-labs.org/api/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 38.95455,
+		"lon": -77.338769,
 		"address": "1916 Isaac Newton Square W, Reston, VA 20190 USA"
 	},
 	{
@@ -869,6 +1085,8 @@
 		"url": "http://spaceapi.osaa.dk/status/json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 56.1732918,
+		"lon": 10.1872507,
 		"address": "Open Space Aarhus, Katrinebjergvej 105, 8200 Aarhus N, Denmark"
 	},
 	{
@@ -877,6 +1095,8 @@
 		"url": "http://api.openlab-augsburg.de/data.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 48.35771,
+		"lon": 10.886797,
 		"address": "Elisenstr. 1, 86159 Augsburg, Germany"
 	},
 	{
@@ -885,6 +1105,8 @@
 		"url": "http://status.pyongyanghackerspace.org/jiwi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 39.058056,
+		"lon": 125.768333,
 		"address": "Kim Il-sung University, 1001 P'y\u014fngyang, Democratic People's Republic of Korea"
 	},
 	{
@@ -893,6 +1115,8 @@
 		"url": "http://spaceapi.panglosslabs.org/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 46.25947,
+		"lon": 6.107725,
 		"address": "12bis rue de Gex, 01210 Ferney-Voltaire, France"
 	},
 	{
@@ -901,6 +1125,8 @@
 		"url": "http://space.artifactory.org.au/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": -31.901846,
+		"lon": 115.810136,
 		"address": "8/16 Guthrie Street, Osborne Park, WA 6017"
 	},
 	{
@@ -909,6 +1135,8 @@
 		"url": "https://spaceapi.pixelbar.nl/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.910111,
+		"lon": 4.433988,
 		"address": "Vierhavensstraat 56, 3029BG Rotterdam"
 	},
 	{
@@ -917,6 +1145,8 @@
 		"url": "https://werkraum.freiraumzittau.de/spaceapi/13/",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.8975,
+		"lon": 14.8044,
 		"address": "W\u00e4chterhaus, Innere Weberstra\u00dfe 16, 02763 Zittau, Germany, Europe, Planet Earth"
 	},
 	{
@@ -925,6 +1155,8 @@
 		"url": "https://www.posttenebraslab.ch/status/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 46.187134981155396,
+		"lon": 6.133659482002258,
 		"address": "Avenue de la Praille 36, 1227 Carouge, Switzerland"
 	},
 	{
@@ -933,6 +1165,8 @@
 		"url": "https://spaceapi.reaktor23.org",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -941,6 +1175,8 @@
 		"url": "http://www.recompile.se/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -949,6 +1185,8 @@
 		"url": "https://revspace.nl/status/status.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.0777306,
+		"lon": 4.3901992,
 		"address": "Overgoo 1, 2266 JZ Leidschendam, The Netherlands"
 	},
 	{
@@ -957,6 +1195,8 @@
 		"url": "https://bot.rootclub.it/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 44.2195512,
+		"lon": 12.2095288,
 		"address": "Via Santa Croce, 6669, 47032 San Pietro In Guardiano FC"
 	},
 	{
@@ -965,6 +1205,8 @@
 		"url": "https://www.hackerspace-sw.de/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -973,6 +1215,8 @@
 		"url": "https://segvault.space/internal/spacecore/opendata/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 48.2050255,
+		"lon": 15.6221177,
 		"address": "Segmentation Vault, Kremser Gasse 11, 3100 St. Poelten, Austria"
 	},
 	{
@@ -981,6 +1225,8 @@
 		"url": "https://iot.spline.de/api/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -989,6 +1235,8 @@
 		"url": "http://status.stratum0.org/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.2785658,
+		"lon": 10.5211247,
 		"address": "Hamburger Strasse 273a, Haus A2, 38114 Braunschweig, Germany"
 	},
 	{
@@ -997,6 +1245,8 @@
 		"url": "http://api.sudoroom.org/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -1005,6 +1255,8 @@
 		"url": "http://swansea.hackspace.org.uk/spaceapi.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.6193,
+		"lon": -3.9397,
 		"address": "4th Floor, 11 Wind Street, Swansea, UK. SA1 1DP"
 	},
 	{
@@ -1013,6 +1265,8 @@
 		"url": "https://spaceapi.tdvenlo.nl/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.3694,
+		"lon": 6.16998,
 		"address": "Begijnengang 2, 5911 JL, Venlo, The Netherlands"
 	},
 	{
@@ -1021,6 +1275,8 @@
 		"url": "http://tog.ie/cgi-bin/space",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 53.334629,
+		"lon": -6.275593,
 		"address": "22 Blackpitts, Dublin 8, Ireland"
 	},
 	{
@@ -1029,6 +1285,8 @@
 		"url": "http://tarlab.fi/spaceapi/space.api",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 65.025444,
+		"lon": 25.4831393,
 		"address": "Valtatie 67, 90500, Oulu, Finland"
 	},
 	{
@@ -1037,6 +1295,8 @@
 		"url": "https://raw.github.com/sbhackerspace/sbhx-spaceapi/master/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 34.43237,
+		"lon": -119.84842,
 		"address": "158 Aero Camino, Suite D Santa Barbara, CA 93117"
 	},
 	{
@@ -1045,6 +1305,8 @@
 		"url": "http://techinc.nl/space/spacestate.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.345558,
+		"lon": 4.826466,
 		"address": "Louwesweg 1B, 1066 EA Amsterdam"
 	},
 	{
@@ -1053,6 +1315,8 @@
 		"url": "http://thebodgery.org/bodgery_space.cgi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": -89.3101386,
+		"lon": 43.091857,
 		"address": "4444 Robertson Road, Madison, WI  53714"
 	},
 	{
@@ -1061,6 +1325,8 @@
 		"url": "http://tkkrlab.nl/statejson.php",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.222388,
+		"lon": 6.872435,
 		"address": "Rigtersbleek-Zandvoort 10, 7521 BE Enschede, The Netherlands"
 	},
 	{
@@ -1069,6 +1335,8 @@
 		"url": "https://toolbox-bodensee.de/toolboxbodensee.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 47.712,
+		"lon": 9.399,
 		"address": "Bergheimerstr. 6, 88677 Markdorf, Germany"
 	},
 	{
@@ -1077,6 +1345,8 @@
 		"url": "https://keinanschluss.un-hack-bar.de/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.53575,
+		"lon": 7.69172,
 		"address": "Morgenstrasse 6,59423 Unna, Germany"
 	},
 	{
@@ -1085,6 +1355,8 @@
 		"url": "http://umeahackerspace.se:12345/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 63.82326,
+		"lon": 20.28208,
 		"address": "Fabriksgatan 8b, 90331 Ume\u00e5, Sweden"
 	},
 	{
@@ -1093,6 +1365,8 @@
 		"url": "https://urlab.be/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -1101,6 +1375,8 @@
 		"url": "http://spaceapi.voidwarranties.be",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.208683,
+		"lon": 4.453435,
 		"address": "Herrystraat 22, 2100 Deurne (Antwerp), Belgium"
 	},
 	{
@@ -1109,6 +1385,8 @@
 		"url": "https://api.warpzone.ms/spaceapi",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.9436176,
+		"lon": 7.6381682,
 		"address": "warpzone e.V., Am Hawerkamp 31 Maus G, 48155 M\u00fcnster, Germany"
 	},
 	{
@@ -1117,6 +1395,8 @@
 		"url": "https://hackerspace.pl/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 52.2416,
+		"lon": 20.98485,
 		"address": "ul. Wolno\u015b\u0107 2A, 01-018 Warszawa, Poland"
 	},
 	{
@@ -1125,6 +1405,8 @@
 		"url": "https://api.westwoodlabs.de/spaceapi",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.46296,
+		"lon": 7.7248087,
 		"address": "Rheinstra\u00dfe 96, Ransbach-Baumbach, Germany"
 	},
 	{
@@ -1133,6 +1415,8 @@
 		"url": "https://api.wolfplex.be/space",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 50.40603,
+		"lon": 4.46884,
 		"address": "/dev/null"
 	},
 	{
@@ -1141,6 +1425,8 @@
 		"url": "https://mattermore.zeus.gent/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.0231119,
+		"lon": 3.7102741,
 		"address": "Zeuskelder, gebouw S9, Krijgslaan 281, Ghent, Belgium"
 	},
 	{
@@ -1149,6 +1435,8 @@
 		"url": "https://hsmr.cc/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.81615,
+		"lon": 8.77851,
 		"address": "[hsmr] Hackspace Marburg, Rudolf-Bultmann-Strasse 2b, 35039 Marburg, Germany"
 	},
 	{
@@ -1157,6 +1445,8 @@
 		"url": "https://status.bckspc.de/spacestatus.php",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -1165,6 +1455,8 @@
 		"url": "https://48.io/status/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -1173,6 +1465,8 @@
 		"url": "http://stats.bytewerk.org/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 48.77082,
+		"lon": 11.38182,
 		"address": "Krumenauerstra\u00dfe 54, 85049 Ingolstadt, Germany"
 	},
 	{
@@ -1181,6 +1475,8 @@
 		"url": "http://www.c-base.org/status.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.512363,
+		"lon": 13.419752,
 		"address": "Rungestr. 20, 2. Hinterhof, 10179 Berlin, Germany"
 	},
 	{
@@ -1189,6 +1485,8 @@
 		"url": "https://fnord.istsystemrelevant.de/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.186234,
+		"lon": 6.692624,
 		"address": "K\u00f6rnerstr. 72, 41464 Neuss, Germany"
 	},
 	{
@@ -1197,6 +1495,8 @@
 		"url": "https://api.flipdot.org/",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 51.3182536,
+		"lon": 9.4848149,
 		"address": "Franz-Ulrich-Stra\u00dfe 18, 34117 Kassel"
 	},
 	{
@@ -1205,6 +1505,8 @@
 		"url": "https://spaceapi.hackzogtum-coburg.de",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.268509,
+		"lon": 10.950683,
 		"address": "Geleitstrasse 10, 96450 Coburg, Germany"
 	},
 	{
@@ -1213,6 +1515,8 @@
 		"url": "https://i3detroit.org/spaceapi/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 42.453828,
+		"lon": -83.113769,
 		"address": "1481-A Wordsworth St, Ferndale, MI 48083, USA"
 	},
 	{
@@ -1221,6 +1525,8 @@
 		"url": "https://fauna.initlab.org/spaceapi/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 42.70789247,
+		"lon": 23.32527086,
 		"address": "floor 2, 6 Rila str., Sofia, Bulgaria"
 	},
 	{
@@ -1229,6 +1535,8 @@
 		"url": "https://www.machquadrat.org/spaceapi.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.1063,
+		"lon": 15.7008,
 		"address": "Grazer Strasse 30/7, 8200 Gleisdorf, Austria"
 	},
 	{
@@ -1237,6 +1545,8 @@
 		"url": "https://state.maglab.space/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.558867664,
+		"lon": 9.677546918,
 		"address": "Buttlarstra\u00dfe 1a, 36039 Fulda, Germany"
 	},
 	{
@@ -1245,6 +1555,8 @@
 		"url": "http://nobreakspace.org/status/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 53.8688,
+		"lon": 10.6712,
 		"address": "Fackenburger Allee 11, 23554 L\u00fcbeck, Germany"
 	},
 	{
@@ -1253,6 +1565,8 @@
 		"url": "http://spaceapi.nordlab-ev.de",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 54.791614,
+		"lon": 9.442367,
 		"address": "nordlab e. V., Offener Kanal Flensburg, St.-J\u00fcrgen-Stra\u00dfe 95, 24937 Flensburg"
 	},
 	{
@@ -1261,6 +1575,8 @@
 		"url": "http://realraum.at/status.json",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
+		"lat": 47.065554,
+		"lon": 15.450435,
 		"address": "Brockmanngasse 15, 8010 Graz, Austria"
 	},
 	{
@@ -1269,6 +1585,8 @@
 		"url": "https://bodensee.space/spaceapi/see-base.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 47.77252,
+		"lon": 9.19997,
 		"address": "Rengoldshauserstr., 88662 Ueberlingen, Germany"
 	},
 	{
@@ -1277,6 +1595,8 @@
 		"url": "https://section77.de/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 48.4719,
+		"lon": 7.9374,
 		"address": "Wasserstr. 22a, 77652 Offenburg, Germany"
 	},
 	{
@@ -1285,6 +1605,8 @@
 		"url": "https://api.shackspace.de/v1/spaceapi",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -1293,6 +1615,8 @@
 		"url": "http://www.space-left.org/spaceapi13.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 51.49367,
+		"lon": 7.2108,
 		"address": "Josephstr. 2, 44791 Bochum, Germany"
 	},
 	{
@@ -1301,6 +1625,8 @@
 		"url": "http://www.turmlabor.de/spaces.api",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": "",
+		"lon": "",
 		"address": ""
 	},
 	{
@@ -1309,6 +1635,8 @@
 		"url": "https://verschwoerhaus.de/feed/spaceapi",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 48.3965,
+		"lon": 9.99023,
 		"address": "Weinhof 9, 89073 Ulm, Germany"
 	},
 	{
@@ -1317,6 +1645,8 @@
 		"url": "https://vspace.one/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 48.065002,
+		"lon": 8.456495,
 		"address": "Wilhelm-Binder-Str. 19, 78048 VS-Villingen, Germany"
 	},
 	{
@@ -1325,6 +1655,8 @@
 		"url": "https://x-hain.de/spaceapi-0.13.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 52.512799,
+		"lon": 13.449819,
 		"address": "xHain hack+makespace, Gr\u00fcnberger Stra\u00dfe 16, 10243 Berlin, Germany"
 	},
 	{
@@ -1333,6 +1665,8 @@
 		"url": "http://api.service.z-labor.space/spaceapi.json",
 		"country": "Germany",
 		"iso-3166-1-alpha-2": "DE",
+		"lat": 50.722616453,
+		"lon": 12.480350733,
 		"address": "Seilerstrasse 1, 08056 Zwickau, Germany"
 	}
 ]
