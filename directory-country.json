@@ -765,7 +765,7 @@
 		"url": "https://hackerspace.by/spaceapi",
 		"country": "",
 		"iso-3166-1-alpha-2": "",
-		"address": ""
+		"address": "Basement near the entrance 3, vul. Biady 45, Minsk, Belarus"
 	},
 	{
 		"id": 96,
@@ -1107,9 +1107,9 @@
 		"id": 138,
 		"name": "Warpzone e.V.",
 		"url": "https://api.warpzone.ms/spaceapi",
-		"country": "",
-		"iso-3166-1-alpha-2": "",
-		"address": ""
+		"country": "Germany",
+		"iso-3166-1-alpha-2": "DE",
+		"address": "warpzone e.V., Am Hawerkamp 31 Maus G, 48155 M\u00fcnster, Germany"
 	},
 	{
 		"id": 139,

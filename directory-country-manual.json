@@ -85,7 +85,7 @@
 		"url": "https://bitlair.nl/statejson.php",
 		"country": "Netherlands",
 		"iso-3166-1-alpha-2": "NL",
-	"address": "Computerweg 20A, 3821 AB Amersfoort, The Netherlands"
+		"address": "Computerweg 20A, 3821 AB Amersfoort, The Netherlands"
 	},
 	{
 		"id": 11,
@@ -133,7 +133,7 @@
 		"url": "https://spaceapi.kabelsalat.ch/",
 		"country": "Switzerland",
 		"iso-3166-1-alpha-2": "CH",
-	"address": "Birsfelderstrasse 6, 4132 Muttenz, Switzerland"
+		"address": "Birsfelderstrasse 6, 4132 Muttenz, Switzerland"
 	},
 	{
 		"id": 17,
@@ -333,7 +333,7 @@
 		"url": "http://spaceapi.edinburghhacklab.com/spaceapi.json",
 		"country": "United Kingdom",
 		"iso-3166-1-alpha-2": "UK",
-	"address": "1 Summerhall, Edinburgh, EH9 1PL, United Kingdom"
+		"address": "1 Summerhall, Edinburgh, EH9 1PL, United Kingdom"
 	},
 	{
 		"id": 42,
@@ -1107,9 +1107,9 @@
 		"id": 138,
 		"name": "Warpzone e.V.",
 		"url": "https://api.warpzone.ms/spaceapi",
-	"country": "",
-	"iso-3166-1-alpha-2": "",
-	"address": ""
+		"country": "Germany",
+		"iso-3166-1-alpha-2": "DE",
+		"address": "warpzone e.V., Am Hawerkamp 31 Maus G, 48155 M\u00fcnster, Germany"
 	},
 	{
 		"id": 139,
