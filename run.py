@@ -25,9 +25,11 @@ for (k, v) in spaceJSON.items():
 	spaceCountryItem["name"] = k
 	spaceCountryItem["url"] = v
 	spaceCountryItem["country"] = ""
+	# See https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 	spaceCountryItem["iso-3166-1-alpha-2"] = ""
 	spaceCountryItem["lat"] = ""
 	spaceCountryItem["lon"] = ""
+	spaceCountryItem["address"] = ""
 	spaceCountryList.append(spaceCountryItem)
 	count = count + 1
 
