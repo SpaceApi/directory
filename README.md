@@ -18,3 +18,6 @@ It is very rare for a space to move country, thus it makes sense to have this in
 To update the directory-country-manual.json execute "python run.py" to re-generate directory-country.json.
 "diff -u directory-country.json directory-country-manual.json" and update directory-country-manual.json manually.
 Or check the history directory.json since last commit of directory-country-manual.json and update manually.
+
+"python read.py" generates statistics from new SpaceAPI directory format, and outputs them to worldwide-overview.txt.
+Using worldwide-overview.txt you can hunt down the IDs of HackerSpaces that need their data updated.
