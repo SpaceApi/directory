@@ -162,7 +162,7 @@
   "nordlab e. V.": "http://spaceapi.nordlab-ev.de",
   "realraum": "http://realraum.at/status.json",
   "see-base": "https://bodensee.space/spaceapi/see-base.json",
-  "section77": "https://section77.de/spaceapi.json",
+  "section77": "https://api.section77.de/",
   "shackspace - stuttgart hackerspace": "https://api.shackspace.de/v1/spaceapi",
   "spaceleft": "http://www.space-left.org/spaceapi13.json",
   "turmlabor": "http://www.turmlabor.de/spaces.api",
