@@ -103,7 +103,7 @@
   "Motionlab": "https://spaceapi.motionlab.berlin/",
   "MuCCC": "http://api.muc.ccc.de/spaceapi.json",
   "Munich Maker Lab": "http://status.munichmakerlab.de/spaceapi.php",
-  "NURDSpace": "http://space.nurdspace.nl/spaceapi/status.json",
+  "NURDSpace": "https://space.nurdspace.nl/spaceapi/status.json",
   "Nerd2Nerd": "https://api.nerd2nerd.org/status.json",
   "Nerdberg": "https://status.nerdberg.de/api/space",
   "Netz39": "http://spaceapi.n39.eu/json",
