@@ -41,7 +41,7 @@
   "DingFabrik e.V.": "https://status.dingfabrik.de/spaceapi.php",
   "Do It Yourself Werkstatt Wilhelmshaven": "https://status.diyww.de/status.json",
   "Edinburgh Hacklab": "http://spaceapi.edinburghhacklab.com/spaceapi.json",
-  "Eigenbaukombinat Halle": "http://api.terminal21.de/status_ebk.json",
+  "Eigenbaukombinat Halle": "https://api.terminal21.de/status_ebk.json",
   "Entropia": "http://club.entropia.de/spaceapi",
   "Farset Labs": "https://www.farsetlabs.org.uk/farsetlabs.json",
   "FAU FabLab": "https://fablab.fau.de/spaceapi/",
