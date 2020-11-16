@@ -120,6 +120,7 @@
   "Pixelbar": "https://spaceapi.pixelbar.nl/",
   "Polytechnischer Werkraum Zittau": "https://werkraum.freiraumzittau.de/spaceapi/13/",
   "Post Tenebras Lab": "https://www.posttenebraslab.ch/status/status.json",
+  "RaumZeitLabor": "https://status.raumzeitlabor.de/api/spaceapi.json",
   "Reaktor 23": "https://spaceapi.reaktor23.org",
   "Recompile": "http://www.recompile.se/spaceapi",
   "RevSpace": "https://revspace.nl/status/status.php",
