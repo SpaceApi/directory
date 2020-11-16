@@ -11,7 +11,7 @@
   "Binary Kitchen": "https://www.binary-kitchen.de/spaceapi.php",
   "Bitlair": "https://bitlair.nl/statejson.php",
   "Breizh-Entropy": "http://breizh-entropy.org/spaceapi.json",
-  "Brixel": "https://spaceapi.azurewebsites.net/api/Status",
+  "Brixel": "https://status.brixel.space/api/status",
   "Bytespeicher": "http://status.bytespeicher.org/status.json",
   "C3D2": "https://www.c3d2.de/spaceapi.json",
   "CCC Aachen": "https://status.aachen.ccc.de/spaceapi",
