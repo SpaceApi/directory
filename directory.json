@@ -121,6 +121,7 @@
   "Perth Artifactory": "http://space.artifactory.org.au/spaceapi.json",
   "Pixelbar": "https://spaceapi.pixelbar.nl/",
   "Polytechnischer Werkraum Zittau": "https://werkraum.freiraumzittau.de/spaceapi/13/",
+  "Pomerania Hackerspace": "https://status.hsp.sh/api/now"
   "Post Tenebras Lab": "https://www.posttenebraslab.ch/status/status.json",
   "RaumZeitLabor": "https://status.raumzeitlabor.de/api/spaceapi.json",
   "Reaktor 23": "https://spaceapi.reaktor23.org",
