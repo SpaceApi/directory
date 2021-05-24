@@ -102,6 +102,7 @@
   "Maschinendeck": "https://maschinenstate.42dots.de",
   "Maschinenraum": "http://api.maschinenraum.tk/status.json",
   "MidsouthMakers": "http://midsouthmakers.org/spaceapi/",
+  "Milton Keynes Makerspace": "https://raw.githubusercontent.com/MKMakerSpace/spaceapi-endpoint/main/spaceapi.json",  
   "Milwaukee Makerspace": "http://apps.2xlnetworks.net/milwaukeemakerspace/",
   "Minsk Hackerspace": "https://hackerspace.by/spaceapi",
   "Mittelab": "https://api.mittelab.org/spaceapi",
@@ -177,5 +178,4 @@
   "vspace.one": "https://vspace.one/spaceapi.json",
   "xHain": "https://x-hain.de/spaceapi-0.13.json",
   "z-Labor Zwickau": "http://api.service.z-labor.space/spaceapi.json"
-  "Milton Keynes Makerspace": "https://raw.githubusercontent.com/MKMakerSpace/spaceapi-endpoint/main/spaceapi.json"
 }
