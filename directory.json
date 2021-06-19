@@ -133,6 +133,7 @@
   "Root": "https://bot.rootclub.it/spaceapi.json",
   "SchonungsLos": "https://www.hackerspace-sw.de/spaceapi.json",
   "Segmentation Vault": "https://segvault.space/internal/spacecore/opendata/spaceapi",
+  "Stockholm Makerspace": "https://raw.githubusercontent.com/makerspace/spaceapi/main/spaceapi.json",
   "Spline": "https://iot.spline.de/api/status.json",
   "Stratum 0": "http://status.stratum0.org/status.json",
   "Sudo Room": "http://api.sudoroom.org/status.json",
