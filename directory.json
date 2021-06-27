@@ -36,6 +36,7 @@
   "Chaostreff Salzburg": "https://spaceapi.sbg.chaostreff.at/status/json",
   "Chaostreff Zürich": "https://www.ccczh.ch/api/v13/",
   "ChaosZone": "https://api.terminal21.de/status_chaoszone.json",
+  "Computer Deconstruction Lab": "https://compdecon.github.io/status.json",
   "Coredump": "https://status.crdmp.ch/",
   "Das Labor": "https://das-labor.org/status/api",
   "DevLoL": "https://devlol.org/status/hackerspaceapi/",
