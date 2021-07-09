@@ -171,6 +171,7 @@
   "mag.lab": "https://state.maglab.space/spaceapi.json",
   "nbsp": "http://nobreakspace.org/status/spaceapi.json",
   "nordlab e. V.": "http://spaceapi.nordlab-ev.de",
+  "NYC Resistor": "https://www.nycresistor.com/.well-known/spaceapi/",
   "realraum": "http://realraum.at/status.json",
   "see-base": "https://bodensee.space/spaceapi/see-base.json",
   "section77": "https://api.section77.de/",
