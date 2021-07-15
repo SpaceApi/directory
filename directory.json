@@ -56,6 +56,7 @@
   "Fuz": "https://spaceapi.fuz.re/",
   "Garoa Hacker Clube": "https://garoahc.appspot.com/status",
   "GeekLabs": "http://spaceapi.geeklabs.dk/?format=json",
+  "Gold Coast Techspace": "https://raw.githubusercontent.com/gctechspace/spaceapi-endpoint/master/spaceapi.json",
   "H.A.C.K.": "https://vsza.hu/hacksense/spaceapi_status.json",
   "HSBNE (Hackerspace Brisbane)": "https://portal.hsbne.org/api/spacedirectory/",
   "HacDC": "http://api.hacdc.org/status.php",
