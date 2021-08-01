@@ -146,7 +146,7 @@
   "Technologia Incognita": "http://techinc.nl/space/spacestate.json",
   "The Bodgery": "http://thebodgery.org/bodgery_space.cgi",
   "The Space Leiden": "https://spaceleiden.nl/.well-known/spaceapi.json",
-  "TkkrLab": "http://tkkrlab.nl/statejson.php",
+  "TkkrLab": "https://spaceapi.tkkrlab.nl/",
   "Toolbox Bodensee e.V.": "https://toolbox-bodensee.de/toolboxbodensee.json",
   "UN-Hack-Bar": "https://keinanschluss.un-hack-bar.de/spaceapi.json",
   "Umeå Hackerspace": "http://umeahackerspace.se:12345/spaceapi.json",
