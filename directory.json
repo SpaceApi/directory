@@ -121,6 +121,7 @@
   "Nova Labs": "http://nova-labs.org/api/",
   "Open Space Aarhus": "http://spaceapi.osaa.dk/status/json",
   "OpenLab Augsburg": "http://api.openlab-augsburg.de/data.json",
+  "Open-Lab Vorarlberg": "https://spaceapi.open-lab.at/spaceapi.php",
   "P'yŏngyang Hackerspace": "http://status.pyongyanghackerspace.org/jiwi.json",
   "Pangloss Labs #1": "http://spaceapi.panglosslabs.org/spaceapi.json",
   "Perth Artifactory": "http://space.artifactory.org.au/spaceapi.json",
