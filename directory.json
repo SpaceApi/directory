@@ -65,7 +65,7 @@
   "Hackeriet": "http://door.hackeriet.no/spaceapi.json",
   "Hackerspace Bielefeld e.V.": "https://hackerspace-bielefeld.de/spacestatus/status.json",
   "Hackerspace Bremen e.V.": "http://hackerspacehb.appspot.com/status",
-  "Hackerspace Brussels": "https://api.hsbxl.be/index.php/api/spaceapi",
+  "Hackerspace Brussels": "https://api.hsbxl.be/index.php/0.1/spaceapi/",
   "Hackerspace KRK": "http://hskrk-spacemon.herokuapp.com",
   "Hackerspace.Gent": "https://hackerspace.gent/spaceapi.php",
   "Hackerspace.gr": "https://www.hackerspace.gr/spaceapi",
