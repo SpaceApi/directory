@@ -81,7 +81,7 @@
   "HTUGraz-Philab": "https://doorothy.htu.tugraz.at/doorothy/philab/status.spaceapi",
   "ibbspace": "https://ibbspace.org/status/status.json",
   "IT-Syndikat": "http://it-syndikat.org/api/status.php",
-  "K4CG": "http://spaceapi.k4cg.org/spaceapi.json",
+  "K4CG": "https://spaceapi.k4cg.org/spaceapi.json",
   "Ko-Lab": "https://vloer.ko-lab.space/spaceapi.json",
   "Krautspace": "https://status.kraut.space/api",
   "Kreitek": "https://metaespacio.kreitek.org/rest/spaceapi/",
