@@ -137,7 +137,7 @@
   "Recompile": "http://www.recompile.se/spaceapi",
   "RevSpace": "https://revspace.nl/status/status.php",
   "Root": "https://bot.rootclub.it/spaceapi.json",
-  "Schülerforschungszentrum der Hochschule Aalen", "https://api.sfz-aalen.space/spaceapi.json",
+  "Schülerforschungszentrum der Hochschule Aalen": "https://api.sfz-aalen.space/spaceapi.json",
   "SchonungsLos": "https://www.hackerspace-sw.de/spaceapi.json",
   "Segmentation Vault": "https://segvault.space/internal/spacecore/opendata/spaceapi",
   "Stockholm Makerspace": "https://raw.githubusercontent.com/makerspace/spaceapi/main/spaceapi.json",
