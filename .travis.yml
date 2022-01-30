@@ -1,7 +1,0 @@
-os: linux
-dist: trusty
-sudo: required
-language: python
-install: "pip install demjson"
-script:
-    - "jsonlint --strict ./directory.json"
