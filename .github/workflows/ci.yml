@@ -1,0 +1,14 @@
+on:
+  push:
+
+name: CI
+
+jobs:
+
+  jsonlint:
+    name: Lint JSON
+    runs-on: ubuntu-latest
+    steps:
+      - run: sudo apt-get install -y python3-demjson
+      - uses: actions/checkout@v2
+      - run: jsonlint --strict ./directory.json
