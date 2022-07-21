@@ -168,6 +168,7 @@
   "[hsmr]": "https://hsmr.cc/spaceapi.json",
   "backspace": "https://status.bckspc.de/spacestatus.php",
   "base48": "https://48.io/status/",
+  "brmlab": "https://brmlab.cz/spaceapi/brmstatus.json",
   "bytewerk": "http://stats.bytewerk.org/status.json",
   "c-base": "http://www.c-base.org/status.json",
   "fNordeingang": "https://fnord.istsystemrelevant.de/spaceapi.json",
