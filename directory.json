@@ -114,7 +114,7 @@
   "Minsk Hackerspace": "https://hackerspace.by/spaceapi",
   "Mittelab": "https://api.mittelab.org/spaceapi",
   "Motionlab": "https://spaceapi.motionlab.berlin/",
-  "MuCCC": "http://api.muc.ccc.de/spaceapi.json",
+  "MuCCC": "https://api.muc.ccc.de/spaceapi.json",
   "Munich Maker Lab": "https://status.munichmakerlab.de/spaceapi.json",
   "NURDSpace": "https://space.nurdspace.nl/spaceapi/status.json",
   "Nerd2Nerd": "https://api.nerd2nerd.org/status.json",
