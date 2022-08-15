@@ -83,7 +83,7 @@
   "HTUGraz-ELab": "https://doorothy.htu.tugraz.at/doorothy/elab/status.spaceapi",
   "HTUGraz-Philab": "https://doorothy.htu.tugraz.at/doorothy/philab/status.spaceapi",
   "ibbspace": "https://ibbspace.org/status/status.json",
-  "IT-Syndikat": "https://it-syndikat.org/api/status.php",
+  "IT-Syndikat": "https://spaceapi.it-syndikat.org/api/status.php",
   "K4CG": "https://spaceapi.k4cg.org/spaceapi.json",
   "Ko-Lab": "https://vloer.ko-lab.space/spaceapi.json",
   "Krautspace": "https://status.kraut.space/api",
