@@ -105,6 +105,7 @@
   "Makers im Zigerschlitz": "https://api.zigerschlitzmakers.ch/space-api.json",
   "Makerspace Erfurt": "https://status.makerspace-erfurt.de/status.json",
   "Makerspace Gütersloh": "https://makerspace-gt.de/space-api/space-api.json",
+  "Makerspace Leiden": "https://makerspaceleiden.nl/crm/spaceapi/0.13",
   "Maker Space experimenta": "https://makerspace.experimenta.science/wp-json/spaceapi/v14/hello",
   "Maschinendeck": "https://maschinenstate.42dots.de",
   "Maschinenraum": "http://api.maschinenraum.tk/status.json",
