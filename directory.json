@@ -134,6 +134,7 @@
   "Pixelbar": "https://spaceapi.pixelbar.nl/",
   "Polytechnischer Werkraum Zittau": "https://www.werkraum.space/spaceapi/current/",
   "Pomerania Hackerspace": "https://status.hsp.sh/api/now",
+  "Port39": "https://port39.de/spaceapi.json",
   "Post Tenebras Lab": "https://www.posttenebraslab.ch/status/status.json",
   "RaumZeitLabor": "https://status.raumzeitlabor.de/api/spaceapi.json",
   "Reaktor 23": "https://spaceapi.reaktor23.org",
@@ -191,6 +192,5 @@
   "verschwoerhaus": "https://verschwoerhaus.de/feed/spaceapi",
   "vspace.one": "https://vspace.one/spaceapi.json",
   "xHain": "https://x-hain.de/spaceapi-0.13.json",
-  "z-Labor Zwickau": "http://api.service.z-labor.space/spaceapi.json",
-  "Port39": "https://port39.de/spaceapi.json"
+  "z-Labor Zwickau": "http://api.service.z-labor.space/spaceapi.json"
 }
