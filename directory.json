@@ -85,7 +85,7 @@
   "ibbspace": "https://ibbspace.org/status/status.json",
   "IT-Syndikat": "https://spaceapi.it-syndikat.org/api/status.php",
   "K4CG": "https://spaceapi.k4cg.org/spaceapi.json",
-  "Ko-Lab": "https://vloer.ko-lab.space/spaceapi.json",
+  "Ko-Lab": "https://status.ko-lab.space/",
   "Krautspace": "https://status.kraut.space/api",
   "Kreitek": "https://metaespacio.kreitek.org/rest/spaceapi/",
   "Kwartzlab": "https://kwartzlab.ca/spaceapi.json",
