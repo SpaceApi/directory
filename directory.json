@@ -63,6 +63,7 @@
   "H.A.C.K.": "https://vsza.hu/hacksense/spaceapi_status.json",
   "HSBNE (Hackerspace Brisbane)": "https://portal.hsbne.org/api/spacedirectory/",
   "HacDC": "http://api.hacdc.org/status.php",
+  "Hack Manhattan": "https://hackmanhattan.com/space-api.json",
   "Hack42": "https://hack42.nl/spacestate/json.php",
   "Hackalot": "https://hackalot.nl/statejson",
   "Hackeriet": "http://door.hackeriet.no/spaceapi.json",
