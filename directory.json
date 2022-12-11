@@ -19,7 +19,7 @@
   "CCC Basel": "https://spaceapi.kabelsalat.ch/",
   "CCC Cologne": "https://api.koeln.ccc.de",
   "CCC Darmstadt": "https://api.chaos-darmstadt.de/json",
-  "CCC Frankfurt": "https://status.ccc-ffm.de/spaceapi",
+  "CCC Frankfurt": "https://status.ccc-ffm.de/spaceapi.json",
   "CCC Hamburg": "https://hamburg.ccc.de/dooris/status.json",
   "CCC Mannheim": "https://www.ccc-mannheim.de/spaceapi/spaceapi.json",
   "CCCFr": "http://cccfr.de/status/spaceapi.py",
