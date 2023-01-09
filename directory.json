@@ -36,7 +36,7 @@
   "Chaostreff Potsdam (CCCP)": "https://spaceapi.ccc-p.org/",
   "Chaostreff Recklinghausen c3RE": "https://spaceapi.c3re.de/",
   "Chaostreff Salzburg": "https://spaceapi.sbg.chaostreff.at/status/json",
-  "Chaostreff Zürich": "https://www.ccczh.ch/api/v13/",
+  "Chaostreff Zürich": "https://api.ccczh.space/api/v13/",
   "ChaosZone": "https://api.terminal21.de/status_chaoszone.json",
   "Computer Deconstruction Lab": "https://compdecon.github.io/status.json",
   "Coredump": "https://status.crdmp.ch/",
