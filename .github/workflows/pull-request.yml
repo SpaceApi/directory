@@ -1,11 +1,16 @@
 ---
 on:
-  pull_request:
-      branches:
+    push:
+        branches:
         - master
-      paths:
-        - directory.json
-  workflow_dispatch:
+        paths:
+          - directory.json
+    pull_request:
+        branches:
+          - master
+        paths:
+          - directory.json
+    workflow_dispatch:
 
 jobs:
     jsonlint:
@@ -22,6 +27,6 @@ jobs:
         - uses: actions/checkout@v2
         - uses: technote-space/get-diff-action@v6
           with:
-            OUTPUT: DIFF
+            GET_FILE_DIFF: true
         - run: |  
             echo ${{ env.DIFF }}
