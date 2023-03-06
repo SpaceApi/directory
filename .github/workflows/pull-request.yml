@@ -5,6 +5,7 @@ on:
         - master
       paths:
         - directory.json
+  workflow_dispatch:
 
 jobs:
     jsonlint:
