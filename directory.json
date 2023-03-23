@@ -128,7 +128,7 @@
   "Netz39": "http://spaceapi.n39.eu/json",
   "Netzladen": "http://netzladen.org/api/status.json",
   "Noklab": "https://cccgoe.de/spaceapi.php",
-  "Nottinghack": "https://lspace.nottinghack.org.uk/status/status.php",
+  "Nottinghack": "https://hms.nottinghack.org.uk/api/spaceapi ",
   "Nova Labs": "http://nova-labs.org/api/",
   "Open Space Aarhus": "http://spaceapi.osaa.dk/status/json",
   "OpenLab Augsburg": "http://api.openlab-augsburg.de/data.json",
