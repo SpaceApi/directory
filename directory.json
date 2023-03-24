@@ -149,6 +149,7 @@
   "Hackwerk Aalen": "https://spaceapi.sfz-aalen.space/api/spaceapi.json",
   "SchonungsLos": "https://www.hackerspace-sw.de/spaceapi.json",
   "Segmentation Vault": "https://segvault.space/internal/spacecore/opendata/spaceapi",
+  "SoMakeIt": "https://members.somakeit.org.uk/api/spaceapi",
   "Stockholm Makerspace": "https://raw.githubusercontent.com/makerspace/spaceapi/main/spaceapi.json",
   "Spline": "https://iot.spline.de/api/status.json",
   "Stratum 0": "http://status.stratum0.org/status.json",
