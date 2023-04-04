@@ -72,7 +72,7 @@
   "Hackerspace Brussels": "https://api.hsbxl.be/index.php/0.1/spaceapi/",
   "Hackerspace Drenthe": "https://mqtt.hackerspace-drenthe.nl/spaceapi",
   "Hackerspace Krakow": "https://spaceapi.hskrk.pl/",
-  "Hackerspace.Gent": "https://hackerspace.gent/spaceapi.php",
+  "Hackerspace.Gent": "https://hackerspace.gent/spaceapi.json",
   "Hackerspace Nijmegen": "https://state.hackerspacenijmegen.nl/state.json",
   "Hackerspace.gr": "https://www.hackerspace.gr/spaceapi",
   "Hackerspace Szeged": "https://api.hackerspace-szeged.org",
