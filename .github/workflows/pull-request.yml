@@ -24,8 +24,19 @@ jobs:
         steps:
           - name: Checkout repository
             uses: actions/checkout@v2
-          - name: Get changed files
+            with:
+              fetch-depth: 2
+          - name: Get changed urls from directory.json
             id: changes
-            # Set outputs using the command.
             run: |
-              echo "::set-output name=all::$(git diff --name-only --diff-filter=ACMRT ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | xargs)"
+              echo "::set-output name=urls::$(\
+                git \
+                  diff \
+                  --diff-filter=ACMRT \
+                  --minimal \
+                  --rotate-to directory.json \
+                  ${{ github.event.pull_request.base.sha }} \
+                  ${{ github.sha }} \
+                | grep ^+ \
+                | tail -n -1 \
+                | grep -Eo 'https?://[^"]+')"
