@@ -6,9 +6,13 @@ on:
     pull_request:
         branches:
           - master
+          - main
         paths:
           - directory.json
-    workflow_dispatch:
+
+permissions:
+    pull-requests: write
+    contents: read
 
 jobs:
     jsonlint:
@@ -23,13 +27,13 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - name: Checkout repository
-            uses: actions/checkout@v2
+            uses: actions/checkout@v3
             with:
               fetch-depth: 2
           - name: Get changed urls from directory.json
             id: changes
             run: |
-              echo "::set-output name=urls::$(\
+              echo "urls=$(\
                 git \
                   diff \
                   --diff-filter=ACMRT \
@@ -38,5 +42,34 @@ jobs:
                   ${{ github.event.pull_request.base.sha }} \
                   ${{ github.sha }} \
                 | grep ^+ \
-                | tail -n -1 \
-                | grep -Eo 'https?://[^"]+')"
+                | grep -Eo 'https?://[^"]+')" >> $GITHUB_ENV
+          - name: Check URLs
+            run: |
+              for url in $urls; do
+                echo "Checking $url"
+                isValid=$(curl \
+                  'https://validator.spaceapi.io/v2/validateURL' \
+                  -X POST \
+                  -H 'Content-Type: application/json' \ 
+                  --data-raw "{\"url\":\"$url\"}" \
+                | jq -e '.valid' || echo false)
+                
+                if [ "$isValid" = "false" ]; then
+                  echo "URL $url is invalid"
+                  echo "failed_url=$url" >> $GITHUB_ENV
+                  exit 1
+                fi
+              done
+            # write comment to pull request
+          - name: Write comment
+            uses: actions/github-script@v3
+            if: failure()
+            with:
+              github-token: ${{ secrets.GITHUB_TOKEN }}
+              script: |
+                  github.issues.createComment({
+                    issue_number: context.issue.number,
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    body: 'The URL check failed. Please check [the validator output](https://validator.spaceapi.io/ui/?url=$failed_url).
+                  })
