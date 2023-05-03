@@ -42,6 +42,7 @@
   "Coredump": "https://status.crdmp.ch/",
   "Das Labor": "https://das-labor.org/status/api",
   "DevLoL": "https://devlol.org/status/hackerspaceapi/",
+  "dezentrale": "https://api.dezentrale.cloud/spaceapi/v14",
   "DingFabrik e.V.": "https://status.dingfabrik.de/spaceapi.php",
   "Do-It-Yourself-Werkstatt Wilhelmshaven e.V.": "https://status.diyww.de/status.json",
   "East Essex Hackspace": "https://wiki.eehack.space/spaceapi/api.json",
