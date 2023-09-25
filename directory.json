@@ -184,7 +184,7 @@
   "brmlab": "https://brmlab.cz/spaceapi/brmstatus.json",
   "bytewerk": "http://stats.bytewerk.org/status.json",
   "c-base": "http://www.c-base.org/status.json",
-  "fNordeingang": "https://fnord.istsystemrelevant.de/spaceapi.json",
+  "fNordeingang": "http://status.fnordeingang.de/spaceapi.json",
   "flipdot": "https://api.flipdot.org/",
   "hackzogtum": "https://spaceapi.hackzogtum-coburg.de",
   "i3Detroit": "https://i3detroit.org/spaceapi/status.json",
