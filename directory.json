@@ -159,6 +159,7 @@
   "Stockholm Makerspace": "https://raw.githubusercontent.com/makerspace/spaceapi/main/spaceapi.json",
   "Spline": "https://iot.spline.de/api/status.json",
   "Stratum 0": "http://status.stratum0.org/status.json",
+  "Subraum (C3PB, Paderborn)": "https://c3pb.de/uptime.json",
   "Sudo Room": "http://api.sudoroom.org/status.json",
   "Swansea Hackspace": "http://swansea.hackspace.org.uk/spaceapi.php",
   "TDvenlo": "https://spaceapi.tdvenlo.nl/spaceapi.json",
