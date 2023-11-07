@@ -69,6 +69,7 @@
   "Hack Manhattan": "https://hackmanhattan.com/space-api.json",
   "Hack42": "https://hack42.nl/spacestate/json.php",
   "Hackalot": "https://hackalot.nl/statejson",
+  "Hacker Embassy": "https://gateway.hackerembassy.site/api/space",
   "Hackeriet": "http://door.hackeriet.no/spaceapi.json",
   "Hackerspace Bielefeld e.V.": "https://hackerspace-bielefeld.de/spacestatus/status.json",
   "Hackerspace Bremen e.V.": "http://hackerspacehb.appspot.com/status",
