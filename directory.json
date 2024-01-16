@@ -22,7 +22,7 @@
   "CCC Cologne": "https://api.koeln.ccc.de",
   "CCC Darmstadt": "https://api.chaos-darmstadt.de/",
   "CCC Frankfurt": "https://status.ccc-ffm.de/spaceapi.json",
-  "CCC Hamburg": "https://hamburg.ccc.de/dooris/status.json",
+  "CCC Hamburg": "https://spaceapi.hamburg.ccc.de/",
   "CCC Mannheim": "https://www.ccc-mannheim.de/spaceapi/spaceapi.json",
   "CCCFr": "http://cccfr.de/status/spaceapi.py",
   "Chaos Computer Club Wien (C3W)": "https://api.space.c3w.at/status.json",
