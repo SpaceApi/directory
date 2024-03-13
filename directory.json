@@ -158,6 +158,7 @@
   "RevSpace": "https://revspace.nl/status/status.php",
   "Root": "https://bot.rootclub.it/spaceapi.json",
   "Hackwerk Aalen": "https://spaceapi.sfz-aalen.space/api/spaceapi.json",
+  "Schaffenburg": "https://status.schaffenburg.org/spaceapi.php",
   "SchonungsLos": "https://www.hackerspace-sw.de/spaceapi.json",
   "Segmentation Vault": "https://segvault.space/internal/spacecore/opendata/spaceapi",
   "SoMakeIt": "https://members.somakeit.org.uk/api/spaceapi",
