@@ -74,6 +74,7 @@
   "Hackerspace Bremen e.V.": "http://hackerspacehb.appspot.com/status",
   "Hackerspace Brussels": "https://api.hsbxl.be/index.php/0.1/spaceapi/",
   "Hackerspace Drenthe": "https://mqtt.hackerspace-drenthe.nl/spaceapi",
+  "Hackerspace Drenthe Emmen": "https://mqtt.hackerspace-drenthe.nl/spaceapi-emmen",
   "Hackerspace Krakow": "https://spaceapi.hskrk.pl/",
   "Hackerspace.Gent": "https://hackerspace.gent/spaceapi.json",
   "Hackerspace Nijmegen": "https://state.hackerspacenijmegen.nl/state.json",
