@@ -165,6 +165,7 @@
   "Schaffenburg": "https://status.schaffenburg.org/spaceapi.php",
   "SchonungsLos": "https://www.hackerspace-sw.de/spaceapi.json",
   "Segmentation Vault": "https://segvault.space/internal/spacecore/opendata/spaceapi",
+  "Sheffield Hackspace": "https://www.sheffieldhackspace.org.uk/spaceapi.json",
   "SoMakeIt": "https://members.somakeit.org.uk/api/spaceapi",
   "Stockholm Makerspace": "https://raw.githubusercontent.com/makerspace/spaceapi/main/spaceapi.json",
   "Spline": "https://iot.spline.de/api/status.json",
