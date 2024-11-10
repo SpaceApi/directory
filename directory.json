@@ -205,7 +205,7 @@
   "init Lab": "https://fauna.initlab.org/spaceapi/status.json",
   "machquadrat": "https://www.machquadrat.org/spaceapi.json",
   "mag.lab": "https://state.maglab.space/spaceapi.json",
-  "nbsp": "http://nobreakspace.org/status/spaceapi.json",
+  "nbsp": "https://status.nobreakspace.org/spaceapi.json",
   "nordlab e. V.": "http://spaceapi.nordlab-ev.de",
   "NYC Resistor": "https://www.nycresistor.com/.well-known/spaceapi/",
   "realraum": "http://realraum.at/status.json",
