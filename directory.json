@@ -103,7 +103,7 @@
   "LAG": "https://state.laglab.org/spaceapi.json",
   "Laboratorio Hacker de Campinas": "http://lhc.net.br/spacenet.json",
   "Leigh Hackspace": "https://api.leighhack.org/space.json",
-  "LeineLab": "http://status.leinelab.org/api/spaceapi.json",
+  "LeineLab": "https://leinelab.org/api/spaceapi.json",
   "Level2": "https://level2.lu/spaceapi/",
   "Liege Hackerspace": "https://lghs.be/spaceapi",
   "LINKping": "https://spaceapi.linkping.org",
