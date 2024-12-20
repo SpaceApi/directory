@@ -73,7 +73,7 @@
   "Hacker Embassy": "https://gateway.hackem.cc/api/space",
   "Hackeriet": "http://door.hackeriet.no/spaceapi.json",
   "Hackerspace Bielefeld e.V.": "https://status.space.bi/status.json",
-  "Hackerspace Bremen e.V.": "http://hackerspacehb.appspot.com/status",
+  "Hackerspace Bremen e.V.": "https://spacemanager.hackerspace-bremen.de/api/v1/spaceapi",
   "Hackerspace Brussels": "https://api.hsbxl.be/index.php/0.1/spaceapi/",
   "Hackerspace Drenthe": "https://mqtt.hackerspace-drenthe.nl/spaceapi",
   "Hackerspace Drenthe (Emmen)": "https://mqtt.hackerspace-drenthe.nl/spaceapi-emmen",
