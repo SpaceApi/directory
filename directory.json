@@ -117,6 +117,7 @@
   "MakeSpace Madrid": "https://makespacemadrid.org/spaceapi/status.json",
   "Makers Local 256": "https://256.makerslocal.org/status.json",
   "Makers im Zigerschlitz": "https://api.zigerschlitzmakers.ch/space-api.json",
+  "MakerSpace Bonn": "https://status.makerspacebonn.de/api/spaceapi",
   "Makerspace Erfurt": "https://status.makerspace-erfurt.de/status.json",
   "Makerspace Gütersloh": "https://makerspace-gt.de/space-api/space-api.json",
   "Makerspace Leiden": "https://makerspaceleiden.nl/crm/spaceapi/0.13",
