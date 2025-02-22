@@ -199,6 +199,7 @@
   "base48": "https://48.io/status/",
   "brmlab": "https://brmlab.cz/spaceapi/brmstatus.json",
   "bytewerk": "http://stats.bytewerk.org/status.json",
+  "chaostreff.ch": "https://chaostreff.ch/spaceapi.json",
   "c-base": "http://www.c-base.org/status.json",
   "fNordeingang": "https://status.fnordeingang.de/spaceapi.json",
   "flipdot": "https://api.flipdot.org/",
