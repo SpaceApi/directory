@@ -1,4 +1,5 @@
 {
+  "/dev/hack": "https://devhack.net/spaceapi.json",
   "/dev/tal": "https://www.devtal.de/api/",
   "/usr/space": "https://www.usrspace.at/spaceapi.json",
   "57North Hacklab": "https://hub.57north.org.uk/spaceapi",
