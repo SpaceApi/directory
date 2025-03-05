@@ -61,7 +61,7 @@
   "Frack": "http://frack.nl/spacestate/?api",
   "Freies Labor": "https://freieslabor.org/api/info",
   "Fuz": "https://spaceapi.fuz.re/",
-  "Garoa Hacker Clube": "https://garoahc.appspot.com/status",
+  "Garoa Hacker Clube": "https://garoa.net.br/status/spaceapi.json",
   "Gold Coast Techspace": "https://raw.githubusercontent.com/gctechspace/spaceapi-endpoint/master/spaceapi.json",
   "Hal9k": "https://acsgateway.hal9k.dk/spaceapi",
   "H.A.C.K.": "https://vsza.hu/hacksense/spaceapi_status.json",
