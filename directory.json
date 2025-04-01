@@ -70,6 +70,7 @@
   "HacDC": "http://api.hacdc.org/status.php",
   "Hack Manhattan": "https://hackmanhattan.com/space-api.json",
   "Hack42": "https://hack42.nl/spacestate/json.php",
+  "HackCS": "https://spaceapi.hackcs.org"
   "Hackalot": "https://hackalot.nl/statejson",
   "Hacker Embassy": "https://gateway.hackem.cc/api/space",
   "Hackeriet": "http://door.hackeriet.no/spaceapi.json",
