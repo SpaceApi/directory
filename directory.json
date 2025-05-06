@@ -44,6 +44,7 @@
   "ChaosZone": "https://spaceapi.eigenbaukombinat.de/status_chaoszone.json",
   "Computer Deconstruction Lab": "https://compdecon.github.io/status.json",
   "Coredump": "https://status.crdmp.ch/",
+  "C-Hack Calw": "https://spaceapi.c-hack.de",
   "Das Labor": "https://das-labor.org/status/api",
   "DevLoL": "https://devlol.org/status/hackerspaceapi/",
   "dezentrale": "https://api.dezentrale.cloud/spaceapi/v14",
