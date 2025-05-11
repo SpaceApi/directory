@@ -117,7 +117,7 @@
   "Mainframe": "https://status.mainframe.io/api/spaceInfo",
   "MakeMonmouth": "https://members.makemonmouth.co.uk/api/spacedirectory/",
   "MakeRiga": "https://api.makeriga.org/spaceapi.json",
-  "MakeSpace Madrid": "https://makespacemadrid.org/spaceapi/status.json",
+  "MakeSpace Madrid": "https://spaceapi.makespacemadrid.org",
   "Makers Local 256": "https://256.makerslocal.org/status.json",
   "Makers im Zigerschlitz": "https://api.zigerschlitzmakers.ch/space-api.json",
   "MakerSpace Bonn": "https://status.makerspacebonn.de/api/spaceapi",
