@@ -222,6 +222,7 @@
   "turmlabor": "http://www.turmlabor.de/spaces.api",
   "temporärhaus": "https://spaceapi.temporaerhaus.de/spaceapi.json",
   "vspace.one": "https://vspace.one/spaceapi.json",
+  "Xecut": "https://spaceapi.xecut.me/api/spaceapi",
   "xHain": "https://x-hain.de/spaceapi/14/status",
   "z-Labor Zwickau": "http://api.service.z-labor.space/spaceapi.json"
 }
