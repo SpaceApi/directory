@@ -142,7 +142,7 @@
   "NURDSpace": "https://space.nurdspace.nl/spaceapi/status.json",
   "Nerd2Nerd": "https://api.nerd2nerd.org/status.json",
   "Nerdberg": "https://status.nerdberg.de/api/space",
-  "Netz39": "http://spaceapi.n39.eu/json",
+  "Netz39": "https://spaceapi.n39.eu/json",
   "Noklab": "https://cccgoe.de/spaceapi.php",
   "Nottinghack": "https://hms.nottinghack.org.uk/api/spaceapi",
   "Nova Labs": "http://nova-labs.org/api/",
