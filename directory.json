@@ -204,7 +204,7 @@
   "Zeus WPI": "https://mattermore.zeus.gent/spaceapi.json",
   "[hsmr]": "https://hsmr.cc/spaceapi.json",
   "backspace": "https://status.bckspc.de/spacestatus.php",
-  "base48": "https://48.io/status/",
+  "base48": "https://base48.cz/api/base_status_spaceapi.json",
   "brmlab": "https://brmlab.cz/spaceapi/brmstatus.json",
   "bytewerk": "http://stats.bytewerk.org/status.json",
   "chaostreff.ch": "https://chaostreff.ch/spaceapi.json",
