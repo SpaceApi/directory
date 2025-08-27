@@ -133,6 +133,7 @@
   "Maker Space experimenta": "https://makerspace.experimenta.science/wp-json/spaceapi/v14/hello",
   "Maschinendeck": "https://maschinenstate.42dots.de",
   "Maschinenraum": "http://api.maschinenraum.tk/status.json",
+  "Metalab": "https://metalab-spaceapi.melina.jetzt/v15",
   "MetaMeute": "https://status.metameute.de/status/spaceapi.json",
   "MidsouthMakers": "http://midsouthmakers.org/spaceapi/",
   "Milton Keynes Makerspace": "https://raw.githubusercontent.com/MKMakerSpace/spaceapi-endpoint/main/spaceapi.json",
