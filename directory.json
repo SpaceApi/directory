@@ -88,7 +88,7 @@
   "Hackerspace.Gent": "https://windowserver.0x20.be/spaceapi.json",
   "Hackerspace Hermithive": "https://hermithive.nl/state.json",
   "Hackerspace Nijmegen": "https://state.hackerspacenijmegen.nl/state.json",
-  "Hackerspace.gr": "https://www.hackerspace.gr/spaceapi",
+  "Hackerspace.gr": "https://www.hackerspace.gr/spacestate.php",
   "Hackerspace Szeged": "https://api.hackerspace-szeged.org",
   "Hackerspace Trójmiasto": "https://hs3.pl/spaceapi.json",
   "Hacklab": "https://hacklab.kiev.ua/files/spaceapi.json",
