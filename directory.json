@@ -55,7 +55,7 @@
   "East Essex Hackspace": "https://wiki.eehack.space/spaceapi/api.json",
   "Edinburgh Hacklab": "http://spaceapi.edinburghhacklab.com/spaceapi.json",
   "Eigenbaukombinat Halle": "https://spaceapi.eigenbaukombinat.de/status_ebk.json",
-  "Entropia": "http://club.entropia.de/spaceapi",
+  "Entropia": "https://club.entropia.de/spaceapi",
   "Essembly": "https://essembly.de/spaceapi.json",
   "Farset Labs": "https://www.farsetlabs.org.uk/farsetlabs.json",
   "FAU FabLab": "https://fablab.fau.de/spaceapi/",
