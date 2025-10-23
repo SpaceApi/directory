@@ -22,4 +22,4 @@ jobs:
     steps:
       - run: sudo apt install -y diffutils jq
       - uses: actions/checkout@v5
-      - run: diff --color -u3 directory.json <(cat directory.json | jq -S) -L directory.json -L directory.json
+      - run: diff --color=always -u3 directory.json <(cat directory.json | jq -S) -L directory.json -L directory.json
