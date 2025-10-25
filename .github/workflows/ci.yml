@@ -12,6 +12,14 @@ jobs:
     name: Lint JSON
     runs-on: ubuntu-latest
     steps:
-      - run: sudo apt-get install -y python3-demjson
-      - uses: actions/checkout@v2
-      - run: jsonlint --strict ./directory.json
+      - run: sudo apt install -y python3-demjson
+      - uses: actions/checkout@v5
+      - run: jsonlint --strict directory.json
+
+  sort:
+    name: Sort JSON
+    runs-on: ubuntu-latest
+    steps:
+      - run: sudo apt install -y diffutils jq
+      - uses: actions/checkout@v5
+      - run: diff --color=always -u3 directory.json <(cat directory.json | jq -S) -L directory.json -L directory.json
