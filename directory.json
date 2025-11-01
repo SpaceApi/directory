@@ -181,7 +181,7 @@
   "Segmentation Vault": "https://segvault.space/internal/spacecore/opendata/spaceapi",
   "Sheffield Hackspace": "https://www.sheffieldhackspace.org.uk/spaceapi.json",
   "SoMakeIt": "https://members.somakeit.org.uk/api/spaceapi",
-  "Spline": "https://iot.spline.de/api/status.json",
+  "Spline": "https://spaceapi.spline.de/spline/status",
   "Stockholm Makerspace": "https://raw.githubusercontent.com/makerspace/spaceapi/main/spaceapi.json",
   "Stratum 0": "https://status.stratum0.org/status.json",
   "Subraum (C3PB, Paderborn)": "https://c3pb.de/uptime.json",
