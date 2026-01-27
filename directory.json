@@ -227,7 +227,7 @@
   "init Lab": "https://fauna.initlab.org/spaceapi/status.json",
   "machquadrat": "https://www.machquadrat.org/spaceapi.json",
   "mag.lab": "https://state.maglab.space/spaceapi.json",
-  "nbsp": "https://status.nobreakspace.org/spaceapi.json",
+  "nbsp": "https://nbsp.space/status/spaceapi.json",
   "nordlab e. V.": "http://spaceapi.nordlab-ev.de",
   "q30.space": "https://spaceapi.q30.space",
   "realraum": "https://status.realraum.at/spaceapi.json",
