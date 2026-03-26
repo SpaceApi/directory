@@ -70,7 +70,7 @@
   "Frack": "http://frack.nl/spacestate/?api",
   "Freies Labor": "https://freieslabor.org/api/info",
   "Fuz": "https://spaceapi.fuz.re/",
-  "Garoa Hacker Clube": "https://garoa.net.br/status/spaceapi.json",
+  "Garoa Hacker Clube": "https://status.garoa.net.br/status",
   "Gold Coast Techspace": "https://raw.githubusercontent.com/gctechspace/spaceapi-endpoint/master/spaceapi.json",
   "H.A.C.K.": "https://vsza.hu/hacksense/spaceapi_status.json",
   "HSBNE (Hackerspace Brisbane)": "https://portal.hsbne.org/api/spacedirectory/",
