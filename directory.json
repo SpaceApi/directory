@@ -193,7 +193,7 @@
   "TDvenlo": "https://spaceapi.tdvenlo.nl/spaceapi.json",
   "TOG": "http://tog.ie/cgi-bin/space",
   "Tarlab": "http://tarlab.fi/spaceapi/space.api",
-  "TechTonik Labs": "https://raw.github.com/sbhackerspace/sbhx-spaceapi/master/spaceapi.json",
+  "TechTonik Labs": "https://tokyohackerspace.github.io/SpaceAPI_schema/spaceapi.json",
   "Technologia Incognita": "http://techinc.nl/space/spacestate.json",
   "The Bodgery": "http://thebodgery.org/bodgery_space.cgi",
   "The Space Leiden": "https://portal.spaceleiden.nl/api/public/status.json",
