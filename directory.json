@@ -202,7 +202,7 @@
   "The Space Leiden": "https://portal.spaceleiden.nl/api/public/status.json",
   "TkkrLab": "https://spaceapi.tkkrlab.nl/",
   "Tokyo HackerSpace": "https://tokyohackerspace.github.io/SpaceAPI_schema/spaceapi.json",
-  "Toolbox Bodensee e.V.": "https://toolbox-bodensee.de/toolboxbodensee.json",
+  "Toolbox Bodensee e.V.": "https://spacestatus.toolbox-bodensee.de",
   "UN-Hack-Bar": "https://keinanschluss.un-hack-bar.de/spaceapi.json",
   "Umeå Hackerspace": "https://umeahackerspace.se/spaceapi.json",
   "UrLab": "https://urlab.be/spaceapi.json",
