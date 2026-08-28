@@ -218,7 +218,7 @@
   "Zeus WPI": "https://mattermore.zeus.gent/spaceapi.json",
   "[hsmr]": "https://hsmr.cc/spaceapi.json",
   "backspace": "https://status.bckspc.de/spacestatus.php",
-  "base48": "https://base48.cz/api/base_status_spaceapi.json",
+  "base48": "https://ha.base48.cz/api/spaceapi",
   "brmlab": "https://brmlab.cz/spaceapi/brmstatus.json",
   "bytewerk": "http://stats.bytewerk.org/status.json",
   "c-base": "http://www.c-base.org/status.json",
