@@ -214,6 +214,7 @@
   "Umeå Hackerspace": "https://umeahackerspace.se/spaceapi.json",
   "UrLab": "https://urlab.be/spaceapi.json",
   "VoidWarranties": "https://spaceapi.voidwarranties.be",
+  "WAK-Lab": "https://wak-lab.org/spaceapi.json",
   "Warpzone e.V.": "https://api.warpzone.ms/spaceapi",
   "Warsaw Hackerspace": "https://hackerspace.pl/spaceapi",
   "Westwoodlabs": "https://api.westwoodlabs.de/spaceapi",
@@ -252,6 +253,5 @@
   "vspace.one": "https://vspace.one/spaceapi.json",
   "xHain": "https://x-hain.de/spaceapi/14/status",
   "z-Labor Zwickau": "https://api.z-labor.space/spaceapi.json",
-  "Økoyono": "https://spaceapi.okoyono.de/",
-  "WAK-Lab": "https://wak-lab.org/spaceapi.json"
+  "Økoyono": "https://spaceapi.okoyono.de/"
 }
