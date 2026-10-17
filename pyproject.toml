@@ -1,0 +1,12 @@
+# Code-formatting and lint definition for the repository's Python tooling
+# (manage_directory.py). Run `ruff format` to format and `ruff check` to lint;
+# wire `ruff format` into format-on-save in your editor.
+[tool.ruff]
+line-length = 88
+target-version = "py38"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.format]
+quote-style = "double"
