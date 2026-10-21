@@ -63,6 +63,7 @@
   "Essembly": "https://essembly.de/spaceapi.json",
   "FAU FabLab": "https://fablab.fau.de/spaceapi/",
   "FIXME": "https://fixme.ch/cgi-bin/spaceapi.py",
+  "FSI Informatik FU Berlin": "https://spaceapi.spline.de/fsiinfo/status",
   "FabLab Allgäu": "https://fablab-allgaeu.de/assets/files/spaceapi.json",
   "FabLab Chemnitz": "https://static.stadtfabrikanten.org/spaceapi/fablabchemnitz.json",
   "FabLab Karlsruhe e.V.": "https://spaceapi.fablab-karlsruhe.de",
