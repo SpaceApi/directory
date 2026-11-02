@@ -5,7 +5,7 @@
   "57North Hacklab": "https://hub.57north.org.uk/spaceapi",
   "<name>space Gera": "https://api.buergernetz-gera-greiz.de/spaceapi",
   "ACKspace": "https://ackspace.nl/spaceAPI/",
-  "AFRA": "https://spaceapi.afra-berlin.de/v1/status.json",
+  "AFRA": "https://spaceapi.afra-berlin.eu/",
   "Amman Valley MakerSpace": "https://raw.githubusercontent.com/AmmanVMS/space.api/main/api.json",
   "Apollo-NG": "https://apollo.open-resource.org/status.php",
   "Arch Reactor": "https://archreactor.org/status.php",
